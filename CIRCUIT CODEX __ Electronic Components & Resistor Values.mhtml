@@ -1,0 +1,1696 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Clarence/Downloads/components-courseware.html
+Subject: CIRCUIT CODEX :: Electronic Components & Resistor Values
+Date: Sun, 31 May 2026 13:22:53 +1000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--FGcIzYV0zWjmVDcdncyDIzS6jMipyg4Odt3OEF8mmv----"
+
+
+------MultipartBoundary--FGcIzYV0zWjmVDcdncyDIzS6jMipyg4Odt3OEF8mmv----
+Content-Type: text/html
+Content-ID: <frame-42DC05793A2A23ABBC0AC9EFA7C4015A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Clarence/Downloads/components-courseware.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-983ebf2f-0ec8-4509-829b-0ba15611c9e4@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>CIRCUIT CODEX :: Electronic Components &amp; Resistor Values</title>
+<link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+<link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigin=3D=
+"">
+<link href=3D"https://fonts.googleapis.com/css2?family=3DOrbitron:wght@400;=
+600;700;900&amp;family=3DRajdhani:wght@400;500;600;700&amp;family=3DJetBrai=
+ns+Mono:wght@400;600;700&amp;display=3Dswap" rel=3D"stylesheet">
+
+
+</head>
+<body>
+
+<header class=3D"hero">
+  <div class=3D"grid-bg"></div>
+  <div class=3D"inner wrap">
+    <div class=3D"kicker">PVCC // Digital Technologies // Years 9=E2=80=931=
+0</div>
+    <h1>CIRCUIT CODEX</h1>
+    <p class=3D"sub">Decode the building blocks of every device you own =E2=
+=80=94 from the resistor in a phone charger to the chip in a Raspberry Pi. =
+Learn to read components like an engineer.</p>
+    <div class=3D"badges">
+      <span class=3D"badge">=E2=9A=A1 Components</span>
+      <span class=3D"badge">=F0=9F=8E=A8 Resistor Colour Code</span>
+      <span class=3D"badge">=F0=9F=A7=8A 3D Interactive</span>
+      <span class=3D"badge">=F0=9F=A7=AE Ohm's Law</span>
+      <span class=3D"badge">=F0=9F=8E=AF Self-Test</span>
+    </div>
+    <a class=3D"start-btn" href=3D"file:///C:/Users/Clarence/Downloads/comp=
+onents-courseware.html#s1">=E2=96=B6 ENTER THE CODEX</a>
+  </div>
+</header>
+
+<nav class=3D"steps">
+  <div class=3D"wrap">
+    <a href=3D"file:///C:/Users/Clarence/Downloads/components-courseware.ht=
+ml#s1">01 =C2=B7 Why It Matters</a>
+    <a href=3D"file:///C:/Users/Clarence/Downloads/components-courseware.ht=
+ml#s2">02 =C2=B7 The Components</a>
+    <a href=3D"file:///C:/Users/Clarence/Downloads/components-courseware.ht=
+ml#s3">03 =C2=B7 3D Resistor Decoder</a>
+    <a href=3D"file:///C:/Users/Clarence/Downloads/components-courseware.ht=
+ml#s4">04 =C2=B7 Colour Code &amp; Maths</a>
+    <a href=3D"file:///C:/Users/Clarence/Downloads/components-courseware.ht=
+ml#s5">05 =C2=B7 Multimeter Lab</a>
+    <a href=3D"file:///C:/Users/Clarence/Downloads/components-courseware.ht=
+ml#s6">06 =C2=B7 Symbol Challenge</a>
+    <a href=3D"file:///C:/Users/Clarence/Downloads/components-courseware.ht=
+ml#s7">07 =C2=B7 Evaluation</a>
+  </div>
+</nav>
+
+<!-- =3D=3D=3D=3D=3D SECTION 1 =3D=3D=3D=3D=3D -->
+<section id=3D"s1" class=3D"reveal in">
+  <div class=3D"wrap">
+    <div class=3D"sechead"><span class=3D"secnum">01</span><h2>Why Should Y=
+ou Care?</h2></div>
+    <p class=3D"lead">Open up <b>any</b> piece of tech =E2=80=94 your phone=
+, a games console, the PC you build in ReBuild Lab =E2=80=94 and you'll fin=
+d the same handful of components repeated thousands of times. Master these,=
+ and electronics stops being magic and starts being a <b>language you can r=
+ead</b>.</p>
+
+    <div class=3D"card glow">
+      <p style=3D"font-size:1.1rem">Electricity is just <b style=3D"color:v=
+ar(--cyan)">electrons flowing</b> through a circuit, like water flowing thr=
+ough pipes. Components are the things that <b>control</b> that flow =E2=80=
+=94 speeding it up, slowing it down, storing it, switching it, or turning i=
+t into light, sound or motion.</p>
+      <div class=3D"analogy"><b>=F0=9F=92=A7 The Water Analogy:</b> <b>Volt=
+age (V)</b> is the water <i>pressure</i> pushing the flow. <b>Current (I)</=
+b> is the <i>amount</i> of water flowing per second. <b>Resistance (R)</b> =
+is a <i>narrow section of pipe</i> that holds the flow back. Get this pictu=
+re and the rest clicks into place.</div>
+      <div class=3D"tip"><b>=E2=9A=99=EF=B8=8F Real talk:</b> Choose the wr=
+ong resistor for an LED and you'll burn it out instantly. Engineers don't g=
+uess =E2=80=94 they read the component and do the maths. That's exactly wha=
+t you'll learn here.</div>
+    </div>
+
+    <div class=3D"card glow" style=3D"margin-top:22px">
+      <h3 style=3D"color:var(--cyan);font-size:1.15rem;margin-bottom:6px">=
+=F0=9F=A7=AE Ohm's Law =E2=80=94 the one equation that runs it all</h3>
+      <p style=3D"color:var(--dim);margin-bottom:14px">These three quantiti=
+es are locked together by <span class=3D"mono" style=3D"color:var(--gold)">=
+V =3D I =C3=97 R</span>. Tap a quantity to solve for it, then play with the=
+ numbers.</p>
+      <div class=3D"ohm-wrap">
+        <div class=3D"tri">
+          <svg viewBox=3D"0 0 200 175" id=3D"triSvg">
+            <polygon points=3D"100,10 190,165 10,165" fill=3D"none" stroke=
+=3D"var(--cyan)" stroke-width=3D"2"></polygon>
+            <line x1=3D"55" y1=3D"92" x2=3D"145" y2=3D"92" stroke=3D"var(--=
+cyan)" stroke-width=3D"1.5" opacity=3D".6"></line>
+            <line x1=3D"100" y1=3D"92" x2=3D"100" y2=3D"165" stroke=3D"var(=
+--cyan)" stroke-width=3D"1.5" opacity=3D".6"></line>
+            <text x=3D"100" y=3D"65" text-anchor=3D"middle" fill=3D"var(--g=
+old)" font-family=3D"JetBrains Mono" font-size=3D"30" font-weight=3D"700">V=
+</text>
+            <text x=3D"68" y=3D"140" text-anchor=3D"middle" fill=3D"var(--c=
+yan)" font-family=3D"JetBrains Mono" font-size=3D"26" font-weight=3D"700">I=
+</text>
+            <text x=3D"132" y=3D"140" text-anchor=3D"middle" fill=3D"var(--=
+purple)" font-family=3D"JetBrains Mono" font-size=3D"26" font-weight=3D"700=
+">R</text>
+          </svg>
+        </div>
+        <div class=3D"calc">
+          <div class=3D"seg" id=3D"ohmSeg">
+            <button data-solve=3D"V" class=3D"on">Solve V</button>
+            <button data-solve=3D"I">Solve I</button>
+            <button data-solve=3D"R">Solve R</button>
+          </div>
+          <div id=3D"ohmInputs"><label>I (amps)</label><input id=3D"oa" typ=
+e=3D"number" step=3D"any" placeholder=3D"0">
+                       <label>R (ohms)</label><input id=3D"ob" type=3D"numb=
+er" step=3D"any" placeholder=3D"0"></div>
+          <div class=3D"ohm-out mono" id=3D"ohmOut">Enter values=E2=80=A6</=
+div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =3D=3D=3D=3D=3D SECTION 2 =3D=3D=3D=3D=3D -->
+<section id=3D"s2" class=3D"reveal in">
+  <div class=3D"wrap">
+    <div class=3D"sechead"><span class=3D"secnum">02</span><h2>The Componen=
+t Catalogue</h2></div>
+    <p class=3D"lead">Tap each card to flip it and learn its job and circui=
+t symbol. These symbols are the <b>alphabet of circuit diagrams</b> =E2=80=
+=94 every schematic you'll ever read is built from them.</p>
+    <div class=3D"gallery" id=3D"gallery"><div class=3D"flip"><div class=3D=
+"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"25" x2=3D"25" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<path d=3D"M25 25 L35 12 L48 38 L61 12 L74 38 L87 12 L95 25" fill=3D"none" =
+stroke=3D"#00f0ff" stroke-width=3D"2.5"></path><line x1=3D"95" y1=3D"25" x2=
+=3D"120" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line></svg><di=
+v class=3D"cname">Resistor</div><div class=3D"tap">tap to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">Resistor</div><p>Limits t=
+he current flowing in a circuit, like a narrow pipe slows water.</p><div cl=
+ass=3D"role">=E2=96=B8 CONTROLS CURRENT</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"25" x2=3D"52" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<line x1=3D"52" y1=3D"6" x2=3D"52" y2=3D"44" stroke=3D"#00f0ff" stroke-widt=
+h=3D"3"></line><line x1=3D"68" y1=3D"6" x2=3D"68" y2=3D"44" stroke=3D"#00f0=
+ff" stroke-width=3D"3"></line><line x1=3D"68" y1=3D"25" x2=3D"120" y2=3D"25=
+" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line></svg><div class=3D"cname"=
+>Capacitor</div><div class=3D"tap">tap to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">Capacitor</div><p>Stores =
+electrical charge and releases it =E2=80=94 like a tiny, fast battery for s=
+moothing and timing.</p><div class=3D"role">=E2=96=B8 STORES CHARGE</div></=
+div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"25" x2=3D"40" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<polygon points=3D"40,10 40,40 70,25" fill=3D"none" stroke=3D"#00f0ff" stro=
+ke-width=3D"2.5"></polygon><line x1=3D"70" y1=3D"10" x2=3D"70" y2=3D"40" st=
+roke=3D"#00f0ff" stroke-width=3D"3"></line><line x1=3D"70" y1=3D"25" x2=3D"=
+120" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line><path d=3D"M7=
+4 8 l10 -8 M82 12 l10 -8" stroke=3D"#ffd24a" stroke-width=3D"2" fill=3D"non=
+e"></path><path d=3D"M90 -2 l-3 3 l4 1 z M82 2 l-3 3 l4 1 z" fill=3D"#ffd24=
+a"></path></svg><div class=3D"cname">LED</div><div class=3D"tap">tap to fli=
+p</div></div>
+    <div class=3D"face back"><div class=3D"cname">LED</div><p>A diode that =
+emits light. Only works one way around and needs a resistor to survive.</p>=
+<div class=3D"role">=E2=96=B8 EMITS LIGHT</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"25" x2=3D"45" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<polygon points=3D"45,10 45,40 73,25" fill=3D"none" stroke=3D"#00f0ff" stro=
+ke-width=3D"2.5"></polygon><line x1=3D"73" y1=3D"10" x2=3D"73" y2=3D"40" st=
+roke=3D"#00f0ff" stroke-width=3D"3"></line><line x1=3D"73" y1=3D"25" x2=3D"=
+120" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line></svg><div cl=
+ass=3D"cname">Diode</div><div class=3D"tap">tap to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">Diode</div><p>A one-way v=
+alve for current =E2=80=94 lets it flow in only one direction.</p><div clas=
+s=3D"role">=E2=96=B8 ONE-WAY GATE</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><circle cx=3D"60"=
+ cy=3D"25" r=3D"20" fill=3D"none" stroke=3D"#00f0ff" stroke-width=3D"2"></c=
+ircle><line x1=3D"20" y1=3D"25" x2=3D"48" y2=3D"25" stroke=3D"#00f0ff" stro=
+ke-width=3D"2.5"></line><line x1=3D"48" y1=3D"12" x2=3D"48" y2=3D"38" strok=
+e=3D"#00f0ff" stroke-width=3D"3"></line><line x1=3D"48" y1=3D"18" x2=3D"78"=
+ y2=3D"6" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line><line x1=3D"48" y1=
+=3D"32" x2=3D"78" y2=3D"44" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<polygon points=3D"70,40 78,44 73,33" fill=3D"#00f0ff"></polygon></svg><div=
+ class=3D"cname">Transistor</div><div class=3D"tap">tap to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">Transistor</div><p>An ele=
+ctronic switch / amplifier. The building block of every computer chip.</p><=
+div class=3D"role">=E2=96=B8 SWITCH / AMPLIFY</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"25" x2=3D"42" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<line x1=3D"42" y1=3D"8" x2=3D"42" y2=3D"42" stroke=3D"#00f0ff" stroke-widt=
+h=3D"3"></line><line x1=3D"54" y1=3D"16" x2=3D"54" y2=3D"34" stroke=3D"#00f=
+0ff" stroke-width=3D"3"></line><line x1=3D"66" y1=3D"8" x2=3D"66" y2=3D"42"=
+ stroke=3D"#00f0ff" stroke-width=3D"3"></line><line x1=3D"78" y1=3D"16" x2=
+=3D"78" y2=3D"34" stroke=3D"#00f0ff" stroke-width=3D"3"></line><line x1=3D"=
+78" y1=3D"25" x2=3D"120" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5">=
+</line><text x=3D"36" y=3D"12" fill=3D"#ffd24a" font-size=3D"12" font-famil=
+y=3D"monospace">+</text></svg><div class=3D"cname">Battery / Cell</div><div=
+ class=3D"tap">tap to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">Battery / Cell</div><p>Su=
+pplies the voltage that pushes current around the circuit.</p><div class=3D=
+"role">=E2=96=B8 POWER SOURCE</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"30" x2=3D"40" y2=3D"30" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<circle cx=3D"40" cy=3D"30" r=3D"3" fill=3D"#00f0ff"></circle><line x1=3D"4=
+0" y1=3D"30" x2=3D"78" y2=3D"12" stroke=3D"#00f0ff" stroke-width=3D"2.5"></=
+line><circle cx=3D"80" cy=3D"30" r=3D"3" fill=3D"#00f0ff"></circle><line x1=
+=3D"80" y1=3D"30" x2=3D"120" y2=3D"30" stroke=3D"#00f0ff" stroke-width=3D"2=
+.5"></line></svg><div class=3D"cname">Switch</div><div class=3D"tap">tap to=
+ flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">Switch</div><p>Opens or c=
+loses a circuit to turn current on and off.</p><div class=3D"role">=E2=96=
+=B8 ON / OFF</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"30" x2=3D"25" y2=3D"30" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<path d=3D"M25 30 L33 18 L44 42 L55 18 L66 42 L77 18 L85 30" fill=3D"none" =
+stroke=3D"#00f0ff" stroke-width=3D"2.5"></path><line x1=3D"85" y1=3D"30" x2=
+=3D"120" y2=3D"30" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line><line x1=
+=3D"55" y1=3D"0" x2=3D"55" y2=3D"14" stroke=3D"#ffd24a" stroke-width=3D"2.5=
+"></line><polygon points=3D"50,14 60,14 55,22" fill=3D"#ffd24a"></polygon><=
+/svg><div class=3D"cname">Potentiometer</div><div class=3D"tap">tap to flip=
+</div></div>
+    <div class=3D"face back"><div class=3D"cname">Potentiometer</div><p>A r=
+esistor you can adjust by turning a knob =E2=80=94 think volume dials.</p><=
+div class=3D"role">=E2=96=B8 VARIABLE R</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><circle cx=3D"60"=
+ cy=3D"25" r=3D"20" fill=3D"none" stroke=3D"#00f0ff" stroke-width=3D"2"></c=
+ircle><line x1=3D"0" y1=3D"25" x2=3D"40" y2=3D"25" stroke=3D"#00f0ff" strok=
+e-width=3D"2.5"></line><line x1=3D"80" y1=3D"25" x2=3D"120" y2=3D"25" strok=
+e=3D"#00f0ff" stroke-width=3D"2.5"></line><path d=3D"M48 32 L72 18 M50 38 L=
+66 26" stroke=3D"#00f0ff" stroke-width=3D"2"></path><path d=3D"M90 4 l-7 7 =
+l6 1 z M98 12 l-7 7 l6 1 z" fill=3D"#ffd24a"></path></svg><div class=3D"cna=
+me">LDR</div><div class=3D"tap">tap to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">LDR</div><p>Light-Depende=
+nt Resistor: resistance drops as light increases. Great for sensors.</p><di=
+v class=3D"role">=E2=96=B8 LIGHT SENSOR</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"25" x2=3D"38" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<path d=3D"M38 8 A20 20 0 0 1 38 42 Z" fill=3D"none" stroke=3D"#00f0ff" str=
+oke-width=3D"2.5"></path><line x1=3D"38" y1=3D"8" x2=3D"38" y2=3D"42" strok=
+e=3D"#00f0ff" stroke-width=3D"2.5"></line><line x1=3D"58" y1=3D"25" x2=3D"1=
+20" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line></svg><div cla=
+ss=3D"cname">Buzzer</div><div class=3D"tap">tap to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">Buzzer</div><p>Turns elec=
+trical energy into sound =E2=80=94 used for alarms and alerts.</p><div clas=
+s=3D"role">=E2=96=B8 MAKES SOUND</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=
+=3D"28" x2=3D"25" y2=3D"28" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line>=
+<path d=3D"M25 28 a8 8 0 0 1 16 0 a8 8 0 0 1 16 0 a8 8 0 0 1 16 0 a8 8 0 0 =
+1 16 0" fill=3D"none" stroke=3D"#00f0ff" stroke-width=3D"2.5"></path><line =
+x1=3D"89" y1=3D"28" x2=3D"120" y2=3D"28" stroke=3D"#00f0ff" stroke-width=3D=
+"2.5"></line></svg><div class=3D"cname">Inductor</div><div class=3D"tap">ta=
+p to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">Inductor</div><p>A coil t=
+hat stores energy in a magnetic field and resists sudden current changes.</=
+p><div class=3D"role">=E2=96=B8 STORES ENERGY</div></div>
+  </div></div><div class=3D"flip"><div class=3D"flip-in">
+    <div class=3D"face front"><svg viewBox=3D"0 0 120 50"><rect x=3D"40" y=
+=3D"8" width=3D"40" height=3D"34" rx=3D"3" fill=3D"none" stroke=3D"#00f0ff"=
+ stroke-width=3D"2"></rect><circle cx=3D"46" cy=3D"14" r=3D"2" fill=3D"#ffd=
+24a"></circle><line x1=3D"40" y1=3D"16" x2=3D"30" y2=3D"16" stroke=3D"#00f0=
+ff" stroke-width=3D"2"></line><line x1=3D"40" y1=3D"25" x2=3D"30" y2=3D"25"=
+ stroke=3D"#00f0ff" stroke-width=3D"2"></line><line x1=3D"40" y1=3D"34" x2=
+=3D"30" y2=3D"34" stroke=3D"#00f0ff" stroke-width=3D"2"></line><line x1=3D"=
+80" y1=3D"16" x2=3D"90" y2=3D"16" stroke=3D"#00f0ff" stroke-width=3D"2"></l=
+ine><line x1=3D"80" y1=3D"25" x2=3D"90" y2=3D"25" stroke=3D"#00f0ff" stroke=
+-width=3D"2"></line><line x1=3D"80" y1=3D"34" x2=3D"90" y2=3D"34" stroke=3D=
+"#00f0ff" stroke-width=3D"2"></line></svg><div class=3D"cname">IC (Chip)</d=
+iv><div class=3D"tap">tap to flip</div></div>
+    <div class=3D"face back"><div class=3D"cname">IC (Chip)</div><p>Integra=
+ted Circuit =E2=80=94 millions of transistors packed into one tiny package.=
+</p><div class=3D"role">=E2=96=B8 THE BRAIN</div></div>
+  </div></div></div>
+  </div>
+</section>
+
+<!-- =3D=3D=3D=3D=3D SECTION 3 =3D=3D=3D=3D=3D -->
+<section id=3D"s3" class=3D"reveal in">
+  <div class=3D"wrap">
+    <div class=3D"sechead"><span class=3D"secnum">03</span><h2>The 3D Resis=
+tor Decoder</h2></div>
+    <p class=3D"lead">Resistors are too small to print numbers on, so they'=
+re labelled with <b>coloured bands</b>. Spin the 3D resistor, pick band col=
+ours, and watch its real value appear. Switch to <b style=3D"color:var(--pu=
+rple)">Test Mode</b> to challenge yourself.</p>
+    <div class=3D"card glow">
+      <div class=3D"decoder">
+        <div>
+          <canvas id=3D"resCanvas" width=3D"589" height=3D"366"></canvas>
+          <div class=3D"spin-hint">=F0=9F=96=B1=EF=B8=8F DRAG TO SPIN =C2=
+=B7 BANDS UPDATE LIVE</div>
+          <div class=3D"mode-toggle" style=3D"margin-top:14px">
+            <button id=3D"m4" class=3D"on">4-Band</button>
+            <button id=3D"m5">5-Band</button>
+          </div>
+          <div class=3D"mode-toggle">
+            <button id=3D"learnMode" class=3D"on">=F0=9F=93=96 Learn Mode</=
+button>
+            <button id=3D"testMode">=F0=9F=8E=AF Test Mode</button>
+          </div>
+        </div>
+        <div>
+          <div id=3D"bandControls"><div class=3D"bandrow"><div class=3D"lbl=
+">Band 1 =E2=80=94 1st digit</div><div class=3D"swatches"><div class=3D"sw"=
+ title=3D"black" style=3D"background: rgb(28, 28, 28);"></div><div class=3D=
+"sw" title=3D"brown" style=3D"background: rgb(122, 59, 16);"></div><div cla=
+ss=3D"sw" title=3D"red" style=3D"background: rgb(224, 36, 36);"></div><div =
+class=3D"sw" title=3D"orange" style=3D"background: rgb(255, 122, 0);"></div=
+><div class=3D"sw sel" title=3D"yellow" style=3D"background: rgb(255, 208, =
+0);"></div><div class=3D"sw" title=3D"green" style=3D"background: rgb(33, 1=
+68, 60);"></div><div class=3D"sw" title=3D"blue" style=3D"background: rgb(3=
+1, 95, 224);"></div><div class=3D"sw" title=3D"violet" style=3D"background:=
+ rgb(139, 47, 214);"></div><div class=3D"sw" title=3D"grey" style=3D"backgr=
+ound: rgb(138, 138, 138);"></div><div class=3D"sw" title=3D"white" style=3D=
+"background: rgb(242, 242, 242);"></div></div></div><div class=3D"bandrow">=
+<div class=3D"lbl">Band 2 =E2=80=94 2nd digit</div><div class=3D"swatches">=
+<div class=3D"sw" title=3D"black" style=3D"background: rgb(28, 28, 28);"></=
+div><div class=3D"sw" title=3D"brown" style=3D"background: rgb(122, 59, 16)=
+;"></div><div class=3D"sw" title=3D"red" style=3D"background: rgb(224, 36, =
+36);"></div><div class=3D"sw" title=3D"orange" style=3D"background: rgb(255=
+, 122, 0);"></div><div class=3D"sw" title=3D"yellow" style=3D"background: r=
+gb(255, 208, 0);"></div><div class=3D"sw" title=3D"green" style=3D"backgrou=
+nd: rgb(33, 168, 60);"></div><div class=3D"sw" title=3D"blue" style=3D"back=
+ground: rgb(31, 95, 224);"></div><div class=3D"sw sel" title=3D"violet" sty=
+le=3D"background: rgb(139, 47, 214);"></div><div class=3D"sw" title=3D"grey=
+" style=3D"background: rgb(138, 138, 138);"></div><div class=3D"sw" title=
+=3D"white" style=3D"background: rgb(242, 242, 242);"></div></div></div><div=
+ class=3D"bandrow"><div class=3D"lbl">Band 3 =E2=80=94 multiplier</div><div=
+ class=3D"swatches"><div class=3D"sw" title=3D"black" style=3D"background: =
+rgb(28, 28, 28);"></div><div class=3D"sw" title=3D"brown" style=3D"backgrou=
+nd: rgb(122, 59, 16);"></div><div class=3D"sw sel" title=3D"red" style=3D"b=
+ackground: rgb(224, 36, 36);"></div><div class=3D"sw" title=3D"orange" styl=
+e=3D"background: rgb(255, 122, 0);"></div><div class=3D"sw" title=3D"yellow=
+" style=3D"background: rgb(255, 208, 0);"></div><div class=3D"sw" title=3D"=
+green" style=3D"background: rgb(33, 168, 60);"></div><div class=3D"sw" titl=
+e=3D"blue" style=3D"background: rgb(31, 95, 224);"></div><div class=3D"sw" =
+title=3D"violet" style=3D"background: rgb(139, 47, 214);"></div><div class=
+=3D"sw" title=3D"grey" style=3D"background: rgb(138, 138, 138);"></div><div=
+ class=3D"sw" title=3D"white" style=3D"background: rgb(242, 242, 242);"></d=
+iv><div class=3D"sw" title=3D"gold" style=3D"background: rgb(212, 175, 55);=
+"></div><div class=3D"sw" title=3D"silver" style=3D"background: rgb(200, 20=
+4, 212);"></div></div></div><div class=3D"bandrow"><div class=3D"lbl">Band =
+4 =E2=80=94 tolerance</div><div class=3D"swatches"><div class=3D"sw" title=
+=3D"brown" style=3D"background: rgb(122, 59, 16);"></div><div class=3D"sw" =
+title=3D"red" style=3D"background: rgb(224, 36, 36);"></div><div class=3D"s=
+w" title=3D"green" style=3D"background: rgb(33, 168, 60);"></div><div class=
+=3D"sw" title=3D"blue" style=3D"background: rgb(31, 95, 224);"></div><div c=
+lass=3D"sw" title=3D"violet" style=3D"background: rgb(139, 47, 214);"></div=
+><div class=3D"sw" title=3D"grey" style=3D"background: rgb(138, 138, 138);"=
+></div><div class=3D"sw sel" title=3D"gold" style=3D"background: rgb(212, 1=
+75, 55);"></div><div class=3D"sw" title=3D"silver" style=3D"background: rgb=
+(200, 204, 212);"></div></div></div></div>
+          <div class=3D"readout" id=3D"learnReadout">
+            <div class=3D"val" id=3D"resVal">4.7 k=CE=A9</div>
+            <div class=3D"tol" id=3D"resTol">=C2=B1 5% tolerance</div>
+            <div class=3D"breakdown" id=3D"resBreak">digits [4 7] =C3=97 10=
+0 =3D 4,700 =CE=A9</div>
+          </div>
+          <div class=3D"testbox" id=3D"testBox">
+            <p class=3D"mono" style=3D"color:var(--dim);font-size:.78rem;le=
+tter-spacing:.06em;text-transform:uppercase;margin-bottom:8px">Read the ban=
+ds. What's the resistance?</p>
+            <input id=3D"guess" placeholder=3D"e.g. 4.7k or 220 or 1M" auto=
+complete=3D"off">
+            <div class=3D"btns">
+              <button class=3D"btn primary" id=3D"checkGuess">CHECK</button=
+>
+              <button class=3D"btn" id=3D"newRand">=F0=9F=8E=B2 NEW RESISTO=
+R</button>
+            </div>
+            <div class=3D"feedback" id=3D"testFb"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =3D=3D=3D=3D=3D SECTION 4 =3D=3D=3D=3D=3D -->
+<section id=3D"s4" class=3D"reveal in">
+  <div class=3D"wrap">
+    <div class=3D"sechead"><span class=3D"secnum">04</span><h2>The Colour C=
+ode &amp; The Maths</h2></div>
+    <p class=3D"lead">Here's the full key. The first bands are <b>digits</b=
+>, the next is a <b>multiplier</b> (how many zeros), and the last is the <b=
+>tolerance</b> (how accurate it is).</p>
+    <div class=3D"card">
+      <table class=3D"cctable" id=3D"ccTable"><tbody><tr><th>Colour</th><th=
+>Digit</th><th>Multiplier</th><th>Tolerance</th></tr><tr><td><span class=3D=
+"chip" style=3D"background:#1c1c1c"></span>Black</td>
+    <td>0</td>
+    <td>=C3=971</td>
+    <td>=E2=80=94</td></tr><tr><td><span class=3D"chip" style=3D"background=
+:#7a3b10"></span>Brown</td>
+    <td>1</td>
+    <td>=C3=9710</td>
+    <td>=C2=B11%</td></tr><tr><td><span class=3D"chip" style=3D"background:=
+#e02424"></span>Red</td>
+    <td>2</td>
+    <td>=C3=97100</td>
+    <td>=C2=B12%</td></tr><tr><td><span class=3D"chip" style=3D"background:=
+#ff7a00"></span>Orange</td>
+    <td>3</td>
+    <td>=C3=971,000</td>
+    <td>=E2=80=94</td></tr><tr><td><span class=3D"chip" style=3D"background=
+:#ffd000"></span>Yellow</td>
+    <td>4</td>
+    <td>=C3=9710,000</td>
+    <td>=E2=80=94</td></tr><tr><td><span class=3D"chip" style=3D"background=
+:#21a83c"></span>Green</td>
+    <td>5</td>
+    <td>=C3=97100,000</td>
+    <td>=C2=B10.5%</td></tr><tr><td><span class=3D"chip" style=3D"backgroun=
+d:#1f5fe0"></span>Blue</td>
+    <td>6</td>
+    <td>=C3=971,000,000</td>
+    <td>=C2=B10.25%</td></tr><tr><td><span class=3D"chip" style=3D"backgrou=
+nd:#8b2fd6"></span>Violet</td>
+    <td>7</td>
+    <td>=C3=9710,000,000</td>
+    <td>=C2=B10.1%</td></tr><tr><td><span class=3D"chip" style=3D"backgroun=
+d:#8a8a8a"></span>Grey</td>
+    <td>8</td>
+    <td>=C3=97100,000,000</td>
+    <td>=C2=B10.05%</td></tr><tr><td><span class=3D"chip" style=3D"backgrou=
+nd:#f2f2f2"></span>White</td>
+    <td>9</td>
+    <td>=C3=971,000,000,000</td>
+    <td>=E2=80=94</td></tr><tr><td><span class=3D"chip" style=3D"background=
+:#d4af37"></span>Gold</td>
+    <td>=E2=80=94</td>
+    <td>=C3=970.1</td>
+    <td>=C2=B15%</td></tr><tr><td><span class=3D"chip" style=3D"background:=
+#c8ccd4"></span>Silver</td>
+    <td>=E2=80=94</td>
+    <td>=C3=970.01</td>
+    <td>=C2=B110%</td></tr></tbody></table>
+      <p class=3D"mnem">Mnemonic to remember the order 0=E2=86=929: <br><b>=
+B</b>ad <b>B</b>oys <b>R</b>ace <b>O</b>ur <b>Y</b>oung <b>G</b>irls <b>B</=
+b>ut <b>V</b>iolet <b>G</b>enerally <b>W</b>ins</p>
+      <div class=3D"analogy"><b>=F0=9F=93=90 Worked example:</b> Bands <spa=
+n class=3D"mono">Yellow=E2=80=93Violet=E2=80=93Red=E2=80=93Gold</span> =E2=
+=86=92 4, 7, then =C3=9710=C2=B2 (=C3=97100) =E2=86=92 <b>4 7 =C3=97 100 =
+=3D 4 700 =CE=A9 =3D 4.7 k=CE=A9</b>, accurate to =C2=B15%. That's the clas=
+sic resistor for driving an LED from 5 V.</div>
+    </div>
+
+    <h3 style=3D"font-family:var(--display);color:var(--cyan);margin:30px 0=
+ 4px;font-size:1.2rem">=F0=9F=94=97 Combining Resistors</h3>
+    <p class=3D"lead" style=3D"margin-bottom:10px">In real circuits resisto=
+rs join in <b>series</b> (end to end) or <b>parallel</b> (side by side). Th=
+e maths is different for each =E2=80=94 try it.</p>
+    <div class=3D"sp-grid">
+      <div class=3D"card sp-card">
+        <h3 style=3D"color:var(--gold);font-size:1.05rem">Series &nbsp;<spa=
+n class=3D"mono" style=3D"font-size:.8rem;color:var(--dim)">R =3D R=E2=82=
+=81 + R=E2=82=82</span></h3>
+        <label>R=E2=82=81 (=CE=A9)</label><input type=3D"number" id=3D"ser1=
+" value=3D"220">
+        <label>R=E2=82=82 (=CE=A9)</label><input type=3D"number" id=3D"ser2=
+" value=3D"330">
+        <div class=3D"sp-out" id=3D"serOut">550 =CE=A9</div>
+      </div>
+      <div class=3D"card sp-card">
+        <h3 style=3D"color:var(--purple);font-size:1.05rem">Parallel &nbsp;=
+<span class=3D"mono" style=3D"font-size:.8rem;color:var(--dim)">1/R =3D 1/R=
+=E2=82=81 + 1/R=E2=82=82</span></h3>
+        <label>R=E2=82=81 (=CE=A9)</label><input type=3D"number" id=3D"par1=
+" value=3D"220">
+        <label>R=E2=82=82 (=CE=A9)</label><input type=3D"number" id=3D"par2=
+" value=3D"330">
+        <div class=3D"sp-out" id=3D"parOut">132 =CE=A9</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =3D=3D=3D=3D=3D SECTION 5 =3D=3D=3D=3D=3D -->
+<!-- =3D=3D=3D=3D=3D SECTION 5 : MULTIMETER LAB =3D=3D=3D=3D=3D -->
+<section id=3D"s5" class=3D"reveal in">
+  <div class=3D"wrap">
+    <div class=3D"sechead"><span class=3D"secnum">05</span><h2>The Multimet=
+er Lab</h2></div>
+    <p class=3D"lead">A <b>multimeter</b> is the engineer's most-used tool =
+=E2=80=94 it measures <b>resistance</b>, <b>voltage</b> and <b>current</b>.=
+ But each measurement has its own golden rule, and getting it wrong can blo=
+w a fuse or wreck the meter. Learn the rules, then drive the virtual meter =
+yourself.</p>
+
+    <div class=3D"rules">
+      <div class=3D"rule rule-r">
+        <div class=3D"rico">=CE=A9</div>
+        <h3>Resistance</h3>
+        <p>Power <b>OFF</b>. Isolate the component. Touch the two probes <b=
+>across</b> it. The meter sends its own tiny test current.</p>
+        <div class=3D"rwarn">=E2=9A=A0 Never measure =CE=A9 in a live circu=
+it</div>
+      </div>
+      <div class=3D"rule rule-v">
+        <div class=3D"rico">V</div>
+        <h3>Voltage</h3>
+        <p>Power <b>ON</b>. Measure in <b>parallel</b> =E2=80=94 touch the =
+probes <b>across</b> the component you're testing. Red to +, black to =E2=
+=88=92.</p>
+        <div class=3D"rwarn">=E2=9A=A0 Parallel =3D across</div>
+      </div>
+      <div class=3D"rule rule-a">
+        <div class=3D"rico">A</div>
+        <h3>Current</h3>
+        <p>Power <b>ON</b>. <b>Break</b> the circuit and put the meter <b>i=
+n series</b> so all the current flows through it. Move the red probe to the=
+ A jack.</p>
+        <div class=3D"rwarn">=E2=9A=A0 Series =3D in-line</div>
+      </div>
+    </div>
+
+    <div class=3D"card glow mm-lab" style=3D"margin-top:24px">
+      <div class=3D"mm-grid">
+        <!-- THE METER -->
+        <div class=3D"meter" id=3D"meter">
+          <div class=3D"mm-screen">
+            <span class=3D"mm-reading" id=3D"mmReading">470</span>
+            <span class=3D"mm-unit" id=3D"mmUnit">=CE=A9</span>
+          </div>
+          <div class=3D"mm-brand">CODEX =C2=B7 DMM-9000</div>
+          <svg class=3D"dial" id=3D"dial" viewBox=3D"0 0 200 200"><circle c=
+x=3D"100" cy=3D"100" r=3D"92" fill=3D"#0a1840" stroke=3D"#2b3a78" stroke-wi=
+dth=3D"2"></circle><circle cx=3D"100" cy=3D"100" r=3D"70" fill=3D"#0e1d4d" =
+stroke=3D"#1f2f6b" stroke-width=3D"1"></circle><line x1=3D"100" y1=3D"42" x=
+2=3D"100" y2=3D"30" stroke=3D"#3a4a8c" stroke-width=3D"2"></line><text clas=
+s=3D"seg-lbl" id=3D"lbl-off" x=3D"100" y=3D"24" text-anchor=3D"middle">OFF<=
+/text><line x1=3D"155.1612779451189" y1=3D"82.07701432625305" x2=3D"166.573=
+95614066075" y2=3D"78.36881039375368" stroke=3D"#3a4a8c" stroke-width=3D"2"=
+></line><text class=3D"seg-lbl active" id=3D"lbl-ohm" x=3D"176.084521303612=
+3" y=3D"79.2786404500042" text-anchor=3D"middle">=CE=A9</text><line x1=3D"1=
+34.09154463296343" y1=3D"146.92298567374695" x2=3D"141.14496766047313" y2=
+=3D"156.63118960624632" stroke=3D"#3a4a8c" stroke-width=3D"2"></line><text =
+class=3D"seg-lbl" id=3D"lbl-vdc" x=3D"147.02282018339787" y=3D"168.72135954=
+999578" text-anchor=3D"middle">V=E2=8E=93</text><line x1=3D"65.908455367036=
+57" y1=3D"146.92298567374695" x2=3D"58.855032339526886" y2=3D"156.631189606=
+24632" stroke=3D"#3a4a8c" stroke-width=3D"2"></line><text class=3D"seg-lbl"=
+ id=3D"lbl-madc" x=3D"52.97717981660216" y=3D"168.72135954999578" text-anch=
+or=3D"middle">mA=E2=8E=93</text><line x1=3D"44.838722054881096" y1=3D"82.07=
+701432625304" x2=3D"33.42604385933926" y2=3D"78.36881039375366" stroke=3D"#=
+3a4a8c" stroke-width=3D"2"></line><text class=3D"seg-lbl" id=3D"lbl-vac" x=
+=3D"23.915478696387723" y=3D"79.27864045000419" text-anchor=3D"middle">V~</=
+text><g class=3D"needle" id=3D"needle" style=3D"transform: rotate(72deg);">=
+<polygon points=3D"100,32 94,106 106,106" fill=3D"#00f0ff"></polygon><circl=
+e cx=3D"100" cy=3D"100" r=3D"14" fill=3D"#13265e" stroke=3D"#00f0ff" stroke=
+-width=3D"2"></circle><circle cx=3D"100" cy=3D"100" r=3D"4" fill=3D"#00f0ff=
+"></circle></g><circle class=3D"seg-hit" data-mode=3D"off" cx=3D"100" cy=3D=
+"20" r=3D"22"></circle><circle class=3D"seg-hit" data-mode=3D"ohm" cx=3D"17=
+6.0845213036123" cy=3D"75.2786404500042" r=3D"22"></circle><circle class=3D=
+"seg-hit" data-mode=3D"vdc" cx=3D"147.02282018339787" cy=3D"164.72135954999=
+578" r=3D"22"></circle><circle class=3D"seg-hit" data-mode=3D"madc" cx=3D"5=
+2.97717981660216" cy=3D"164.72135954999578" r=3D"22"></circle><circle class=
+=3D"seg-hit" data-mode=3D"vac" cx=3D"23.915478696387723" cy=3D"75.278640450=
+00419" r=3D"22"></circle></svg>
+          <div class=3D"jacks">
+            <div class=3D"jack jack-a" id=3D"jack10A"><span class=3D"dot"><=
+/span>10A</div>
+            <div class=3D"jack jack-vo live" id=3D"jackVO"><span class=3D"d=
+ot"></span>V=CE=A9mA</div>
+            <div class=3D"jack jack-com live" id=3D"jackCOM"><span class=3D=
+"dot"></span>COM</div>
+          </div>
+          <div class=3D"probe-note">=F0=9F=94=B4 Red probe =E2=86=92 <b id=
+=3D"redJack">V=CE=A9mA</b> &nbsp;=C2=B7&nbsp; =E2=9A=AB Black =E2=86=92 COM=
+</div>
+        </div>
+
+        <!-- THE CIRCUIT -->
+        <div class=3D"circuit">
+          <svg id=3D"circuitSvg" viewBox=3D"0 0 340 220">
+            <!-- loop wires -->
+            <path id=3D"loopWire" d=3D"M60 50 H280 V170 H60 V50" fill=3D"no=
+ne" stroke=3D"#2b3a78" stroke-width=3D"4"></path>
+            <path id=3D"flowWire" d=3D"M60 50 H280 V170 H60 V50" fill=3D"no=
+ne" stroke=3D"#00f0ff" stroke-width=3D"4" stroke-dasharray=3D"10 14" stroke=
+-linecap=3D"round" opacity=3D"0"></path>
+            <!-- battery (left) -->
+            <line x1=3D"48" y1=3D"98" x2=3D"72" y2=3D"98" stroke=3D"#cfd6e0=
+" stroke-width=3D"4"></line>
+            <line x1=3D"54" y1=3D"112" x2=3D"66" y2=3D"112" stroke=3D"#cfd6=
+e0" stroke-width=3D"6"></line>
+            <line x1=3D"48" y1=3D"124" x2=3D"72" y2=3D"124" stroke=3D"#cfd6=
+e0" stroke-width=3D"4"></line>
+            <text x=3D"34" y=3D"96" fill=3D"#ffd24a" font-size=3D"14" font-=
+family=3D"monospace">+</text>
+            <text x=3D"34" y=3D"132" fill=3D"#8ea0d8" font-size=3D"16" font=
+-family=3D"monospace">=E2=88=92</text>
+            <text x=3D"40" y=3D"155" fill=3D"#8ea0d8" font-size=3D"11" font=
+-family=3D"monospace">9V</text>
+            <!-- resistor (top, zigzag) -->
+            <path d=3D"M150 50 l8 -11 l11 22 l11 -22 l11 22 l11 -22 l8 11" =
+fill=3D"none" stroke=3D"#ffd24a" stroke-width=3D"4"></path>
+            <text x=3D"170" y=3D"28" fill=3D"#ffd24a" font-size=3D"12" font=
+-family=3D"monospace" text-anchor=3D"middle">470 =CE=A9</text>
+            <!-- LED (right side) -->
+            <g id=3D"ledGfx">
+              <polygon points=3D"270,98 290,98 280,118" fill=3D"none" strok=
+e=3D"#39ff88" stroke-width=3D"3"></polygon>
+              <line x1=3D"270" y1=3D"118" x2=3D"290" y2=3D"118" stroke=3D"#=
+39ff88" stroke-width=3D"3"></line>
+              <circle id=3D"ledGlow" cx=3D"280" cy=3D"108" r=3D"16" fill=3D=
+"#39ff88" opacity=3D"0"></circle>
+            </g>
+            <text x=3D"300" y=3D"112" fill=3D"#39ff88" font-size=3D"11" fon=
+t-family=3D"monospace">LED</text>
+            <!-- probe markers -->
+            <line id=3D"probeLink" x1=3D"150" y1=3D"40" x2=3D"210" y2=3D"40=
+" stroke=3D"#ffffff" stroke-width=3D"1.5" opacity=3D"0.5" stroke-dasharray=
+=3D"3 3"></line>
+            <circle id=3D"probeR" cx=3D"150" cy=3D"40" r=3D"7" fill=3D"#ff4=
+d6d" stroke=3D"#fff" stroke-width=3D"1.5" opacity=3D"1"></circle>
+            <circle id=3D"probeB" cx=3D"210" cy=3D"40" r=3D"7" fill=3D"#1a2=
+350" stroke=3D"#fff" stroke-width=3D"1.5" opacity=3D"1"></circle>
+          </svg>
+          <div class=3D"power-row">
+            <span class=3D"mono">CIRCUIT POWER</span>
+            <button class=3D"pwr" id=3D"pwrBtn" data-on=3D"false">OFF</butt=
+on>
+          </div>
+        </div>
+      </div>
+
+      <!-- CONTROLS -->
+      <div class=3D"mm-controls">
+        <div class=3D"ctrl">
+          <div class=3D"ctrl-step">STEP 1 =C2=B7 turn the dial</div>
+          <div class=3D"mono ctrl-hint">Click a mode on the meter's dial =
+=E2=86=96</div>
+        </div>
+        <div class=3D"ctrl">
+          <div class=3D"ctrl-step">STEP 2 =C2=B7 place the probes</div>
+          <div class=3D"placement" id=3D"placement">
+            <button data-p=3D"resistor" class=3D"on">Across resistor</butto=
+n>
+            <button data-p=3D"led" class=3D"">Across LED</button>
+            <button data-p=3D"battery" class=3D"">Across battery</button>
+            <button data-p=3D"series" class=3D"">In series (break circuit)<=
+/button>
+          </div>
+        </div>
+      </div>
+      <div class=3D"mm-status ok" id=3D"mmStatus">=E2=9C=93 <b>Perfect.</b>=
+ Power off, probes across the resistor =E2=80=94 it reads <b>470 =CE=A9</b>=
+, matching its colour bands.</div>
+    </div>
+    <div class=3D"tip" style=3D"margin-top:18px"><b>=F0=9F=A7=AA Try this s=
+equence:</b> =E2=91=A0 Dial to <b>=CE=A9</b>, power <b>OFF</b>, probe <b>ac=
+ross the resistor</b> =E2=86=92 470 =CE=A9. =E2=91=A1 Dial to <b>V=E2=8E=93=
+</b>, power <b>ON</b>, probe <b>across the LED</b> =E2=86=92 ~2 V. =E2=91=
+=A2 Dial to <b>mA=E2=8E=93</b>, power <b>ON</b>, <b>in series</b> =E2=86=92=
+ ~15 mA. Then try current <i>in parallel</i> and watch what the meter says=
+=E2=80=A6</div>
+  </div>
+</section>
+
+<section id=3D"s6" class=3D"reveal in">
+  <div class=3D"wrap">
+    <div class=3D"sechead"><span class=3D"secnum">06</span><h2>Symbol Chall=
+enge</h2></div>
+    <p class=3D"lead">Time to prove you can read the alphabet. Match each <=
+b>circuit symbol</b> to the right component. Get it right and it locks gree=
+n.</p>
+    <div id=3D"matchGame"><div class=3D"match-q"><svg viewBox=3D"0 0 120 50=
+"><line x1=3D"0" y1=3D"25" x2=3D"52" y2=3D"25" stroke=3D"#00f0ff" stroke-wi=
+dth=3D"2.5"></line><line x1=3D"52" y1=3D"6" x2=3D"52" y2=3D"44" stroke=3D"#=
+00f0ff" stroke-width=3D"3"></line><line x1=3D"68" y1=3D"6" x2=3D"68" y2=3D"=
+44" stroke=3D"#00f0ff" stroke-width=3D"3"></line><line x1=3D"68" y1=3D"25" =
+x2=3D"120" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line></svg><=
+div class=3D"match-opts"><button>Battery</button><button>Capacitor</button>=
+<button>Resistor</button></div></div><div class=3D"match-q"><svg viewBox=3D=
+"0 0 120 50"><line x1=3D"0" y1=3D"25" x2=3D"40" y2=3D"25" stroke=3D"#00f0ff=
+" stroke-width=3D"2.5"></line><polygon points=3D"40,10 40,40 70,25" fill=3D=
+"none" stroke=3D"#00f0ff" stroke-width=3D"2.5"></polygon><line x1=3D"70" y1=
+=3D"10" x2=3D"70" y2=3D"40" stroke=3D"#00f0ff" stroke-width=3D"3"></line><l=
+ine x1=3D"70" y1=3D"25" x2=3D"120" y2=3D"25" stroke=3D"#00f0ff" stroke-widt=
+h=3D"2.5"></line><path d=3D"M74 8 l10 -8 M82 12 l10 -8" stroke=3D"#ffd24a" =
+stroke-width=3D"2" fill=3D"none"></path><path d=3D"M90 -2 l-3 3 l4 1 z M82 =
+2 l-3 3 l4 1 z" fill=3D"#ffd24a"></path></svg><div class=3D"match-opts"><bu=
+tton>LED</button><button>Diode</button><button>Buzzer</button></div></div><=
+div class=3D"match-q"><svg viewBox=3D"0 0 120 50"><circle cx=3D"60" cy=3D"2=
+5" r=3D"20" fill=3D"none" stroke=3D"#00f0ff" stroke-width=3D"2"></circle><l=
+ine x1=3D"20" y1=3D"25" x2=3D"48" y2=3D"25" stroke=3D"#00f0ff" stroke-width=
+=3D"2.5"></line><line x1=3D"48" y1=3D"12" x2=3D"48" y2=3D"38" stroke=3D"#00=
+f0ff" stroke-width=3D"3"></line><line x1=3D"48" y1=3D"18" x2=3D"78" y2=3D"6=
+" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line><line x1=3D"48" y1=3D"32" =
+x2=3D"78" y2=3D"44" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line><polygon=
+ points=3D"70,40 78,44 73,33" fill=3D"#00f0ff"></polygon></svg><div class=
+=3D"match-opts"><button>IC</button><button>Transistor</button><button>Induc=
+tor</button></div></div><div class=3D"match-q"><svg viewBox=3D"0 0 120 50">=
+<line x1=3D"0" y1=3D"30" x2=3D"25" y2=3D"30" stroke=3D"#00f0ff" stroke-widt=
+h=3D"2.5"></line><path d=3D"M25 30 L33 18 L44 42 L55 18 L66 42 L77 18 L85 3=
+0" fill=3D"none" stroke=3D"#00f0ff" stroke-width=3D"2.5"></path><line x1=3D=
+"85" y1=3D"30" x2=3D"120" y2=3D"30" stroke=3D"#00f0ff" stroke-width=3D"2.5"=
+></line><line x1=3D"55" y1=3D"0" x2=3D"55" y2=3D"14" stroke=3D"#ffd24a" str=
+oke-width=3D"2.5"></line><polygon points=3D"50,14 60,14 55,22" fill=3D"#ffd=
+24a"></polygon></svg><div class=3D"match-opts"><button>Switch</button><butt=
+on>Resistor</button><button>Potentiometer</button></div></div><div class=3D=
+"match-q"><svg viewBox=3D"0 0 120 50"><line x1=3D"0" y1=3D"25" x2=3D"42" y2=
+=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line><line x1=3D"42" y1=
+=3D"8" x2=3D"42" y2=3D"42" stroke=3D"#00f0ff" stroke-width=3D"3"></line><li=
+ne x1=3D"54" y1=3D"16" x2=3D"54" y2=3D"34" stroke=3D"#00f0ff" stroke-width=
+=3D"3"></line><line x1=3D"66" y1=3D"8" x2=3D"66" y2=3D"42" stroke=3D"#00f0f=
+f" stroke-width=3D"3"></line><line x1=3D"78" y1=3D"16" x2=3D"78" y2=3D"34" =
+stroke=3D"#00f0ff" stroke-width=3D"3"></line><line x1=3D"78" y1=3D"25" x2=
+=3D"120" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></line><text x=
+=3D"36" y=3D"12" fill=3D"#ffd24a" font-size=3D"12" font-family=3D"monospace=
+">+</text></svg><div class=3D"match-opts"><button>Inductor</button><button>=
+Battery / Cell</button><button>Capacitor</button></div></div><div class=3D"=
+match-q"><svg viewBox=3D"0 0 120 50"><circle cx=3D"60" cy=3D"25" r=3D"20" f=
+ill=3D"none" stroke=3D"#00f0ff" stroke-width=3D"2"></circle><line x1=3D"0" =
+y1=3D"25" x2=3D"40" y2=3D"25" stroke=3D"#00f0ff" stroke-width=3D"2.5"></lin=
+e><line x1=3D"80" y1=3D"25" x2=3D"120" y2=3D"25" stroke=3D"#00f0ff" stroke-=
+width=3D"2.5"></line><path d=3D"M48 32 L72 18 M50 38 L66 26" stroke=3D"#00f=
+0ff" stroke-width=3D"2"></path><path d=3D"M90 4 l-7 7 l6 1 z M98 12 l-7 7 l=
+6 1 z" fill=3D"#ffd24a"></path></svg><div class=3D"match-opts"><button>LDR<=
+/button><button>LED</button><button>Resistor</button></div></div></div>
+    <div class=3D"mono" id=3D"matchScore" style=3D"text-align:center;color:=
+var(--gold);margin-top:16px;font-size:1.1rem"></div>
+  </div>
+</section>
+
+<!-- =3D=3D=3D=3D=3D SECTION 7 : EVALUATION =3D=3D=3D=3D=3D -->
+<section id=3D"s7" class=3D"reveal in">
+  <div class=3D"wrap">
+    <div class=3D"sechead"><span class=3D"secnum">07</span><h2>Evaluation</=
+h2></div>
+    <p class=3D"lead">These questions cover everything in the Codex =E2=80=
+=94 components, the colour code, the maths and the multimeter. Pick an answ=
+er to lock it in and see the explanation. Your score builds as you go.</p>
+    <div id=3D"quiz"><div class=3D"quiz-q"><div class=3D"qn">QUESTION 01 / =
+13</div><div class=3D"qt">In the water analogy, what does VOLTAGE represent=
+?</div><button class=3D"opt">The amount of water flowing</button><button cl=
+ass=3D"opt">The water pressure pushing the flow</button><button class=3D"op=
+t">A narrow pipe</button><button class=3D"opt">A storage tank</button><div =
+class=3D"exp"><b>Why:</b> Voltage is the push (pressure). Current is the fl=
+ow rate; resistance is the narrowing.</div></div><div class=3D"quiz-q"><div=
+ class=3D"qn">QUESTION 02 / 13</div><div class=3D"qt">Which equation correc=
+tly states Ohm's Law?</div><button class=3D"opt">V =3D I =C3=B7 R</button><=
+button class=3D"opt">R =3D V =C3=97 I</button><button class=3D"opt">V =3D I=
+ =C3=97 R</button><button class=3D"opt">I =3D V =C3=97 R</button><div class=
+=3D"exp"><b>Why:</b> V =3D I =C3=97 R. Rearranged: I =3D V =C3=B7 R and R =
+=3D V =C3=B7 I.</div></div><div class=3D"quiz-q"><div class=3D"qn">QUESTION=
+ 03 / 13</div><div class=3D"qt">A resistor has bands Brown=E2=80=93Black=E2=
+=80=93Red=E2=80=93Gold. What is its value?</div><button class=3D"opt">1 k=
+=CE=A9 =C2=B15%</button><button class=3D"opt">100 =CE=A9 =C2=B15%</button><=
+button class=3D"opt">10 k=CE=A9 =C2=B15%</button><button class=3D"opt">120 =
+=CE=A9 =C2=B110%</button><div class=3D"exp"><b>Why:</b> Brown=3D1, Black=3D=
+0 =E2=86=92 "10", =C3=97Red(100) =3D 1000 =CE=A9 =3D 1 k=CE=A9. Gold =3D =
+=C2=B15%.</div></div><div class=3D"quiz-q"><div class=3D"qn">QUESTION 04 / =
+13</div><div class=3D"qt">Which component lets current flow in only ONE dir=
+ection?</div><button class=3D"opt">Resistor</button><button class=3D"opt">D=
+iode</button><button class=3D"opt">Capacitor</button><button class=3D"opt">=
+Switch</button><div class=3D"exp"><b>Why:</b> A diode is a one-way valve. A=
+n LED is a diode that also emits light.</div></div><div class=3D"quiz-q"><d=
+iv class=3D"qn">QUESTION 05 / 13</div><div class=3D"qt">What is the job of =
+a resistor?</div><button class=3D"opt">Store charge</button><button class=
+=3D"opt">Emit light</button><button class=3D"opt">Limit / control current</=
+button><button class=3D"opt">Amplify a signal</button><div class=3D"exp"><b=
+>Why:</b> Resistors limit current =E2=80=94 essential for protecting compon=
+ents like LEDs.</div></div><div class=3D"quiz-q"><div class=3D"qn">QUESTION=
+ 06 / 13</div><div class=3D"qt">A component whose resistance falls when lig=
+ht hits it is a=E2=80=A6</div><button class=3D"opt">Potentiometer</button><=
+button class=3D"opt">LDR</button><button class=3D"opt">Inductor</button><bu=
+tton class=3D"opt">Transistor</button><div class=3D"exp"><b>Why:</b> A Ligh=
+t-Dependent Resistor (LDR) is the classic light sensor.</div></div><div cla=
+ss=3D"quiz-q"><div class=3D"qn">QUESTION 07 / 13</div><div class=3D"qt">Two=
+ resistors of 220 =CE=A9 and 330 =CE=A9 are in SERIES. Total resistance?</d=
+iv><button class=3D"opt">132 =CE=A9</button><button class=3D"opt">550 =CE=
+=A9</button><button class=3D"opt">75 =CE=A9</button><button class=3D"opt">1=
+10 =CE=A9</button><div class=3D"exp"><b>Why:</b> Series adds up: 220 + 330 =
+=3D 550 =CE=A9.</div></div><div class=3D"quiz-q"><div class=3D"qn">QUESTION=
+ 08 / 13</div><div class=3D"qt">Which is the building block of every comput=
+er chip?</div><button class=3D"opt">Buzzer</button><button class=3D"opt">Tr=
+ansistor</button><button class=3D"opt">Battery</button><button class=3D"opt=
+">Inductor</button><div class=3D"exp"><b>Why:</b> Transistors act as tiny s=
+witches =E2=80=94 billions of them form a CPU.</div></div><div class=3D"qui=
+z-q"><div class=3D"qn">QUESTION 09 / 13</div><div class=3D"qt">On a 4-band =
+resistor, what does the THIRD band tell you?</div><button class=3D"opt">Fir=
+st digit</button><button class=3D"opt">Tolerance</button><button class=3D"o=
+pt">The multiplier (number of zeros)</button><button class=3D"opt">Power ra=
+ting</button><div class=3D"exp"><b>Why:</b> Band 3 is the multiplier. Bands=
+ 1=E2=80=932 are digits, band 4 is tolerance.</div></div><div class=3D"quiz=
+-q"><div class=3D"qn">QUESTION 10 / 13</div><div class=3D"qt">Why must an L=
+ED always be paired with a resistor?</div><button class=3D"opt">To make it =
+brighter</button><button class=3D"opt">To limit current so it doesn't burn =
+out</button><button class=3D"opt">To store charge</button><button class=3D"=
+opt">To reverse the current</button><div class=3D"exp"><b>Why:</b> Without =
+a current-limiting resistor, too much current destroys the LED instantly.</=
+div></div><div class=3D"quiz-q"><div class=3D"qn">QUESTION 11 / 13</div><di=
+v class=3D"qt">When measuring CURRENT with a multimeter, how is the meter c=
+onnected?</div><button class=3D"opt">In parallel, across the component</but=
+ton><button class=3D"opt">In series, inside the current path</button><butto=
+n class=3D"opt">Across the battery terminals</button><button class=3D"opt">=
+It makes no difference</button><div class=3D"exp"><b>Why:</b> Current is me=
+asured in series =E2=80=94 the meter becomes part of the loop so all the cu=
+rrent flows through it.</div></div><div class=3D"quiz-q"><div class=3D"qn">=
+QUESTION 12 / 13</div><div class=3D"qt">What must you do BEFORE measuring r=
+esistance with a multimeter?</div><button class=3D"opt">Turn the circuit po=
+wer ON</button><button class=3D"opt">Set the dial to AC volts</button><butt=
+on class=3D"opt">Turn the circuit power OFF</button><button class=3D"opt">S=
+hort the two probes together</button><div class=3D"exp"><b>Why:</b> Resista=
+nce is measured with the power OFF and the part isolated =E2=80=94 the mete=
+r supplies its own tiny test current.</div></div><div class=3D"quiz-q"><div=
+ class=3D"qn">QUESTION 13 / 13</div><div class=3D"qt">You set the dial to c=
+urrent (mA) and touch the probes across a powered battery. What happens?</d=
+iv><button class=3D"opt">It safely reads the battery current</button><butto=
+n class=3D"opt">Nothing =E2=80=94 that's normal</button><button class=3D"op=
+t">A short circuit that can blow the fuse</button><button class=3D"opt">It =
+switches to resistance mode</button><div class=3D"exp"><b>Why:</b> In curre=
+nt mode the meter is almost 0 =CE=A9. Across a live source that is a short =
+circuit, which blows the fuse. Current goes in series only.</div></div></di=
+v>
+    <div id=3D"scorebar">
+      <div class=3D"big" id=3D"finalScore">0 / 10</div>
+      <div class=3D"msg" id=3D"finalMsg"></div>
+      <div class=3D"progbar"><i id=3D"finalBar"></i></div>
+      <button class=3D"btn primary">=E2=86=BB RETAKE</button>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class=3D"wrap">
+    <p class=3D"verse">"By wisdom a house is built, and through understandi=
+ng it is established; through knowledge its rooms are filled with rare and =
+beautiful treasures."
+      <span class=3D"ref">=E2=80=94 PROVERBS 24:3=E2=80=934</span>
+    </p>
+    <p class=3D"sig">CIRCUIT CODEX =C2=B7 PLENTY VALLEY CHRISTIAN COLLEGE =
+=C2=B7 DIGITAL TECHNOLOGIES =C2=B7 teachingtools.dev</p>
+  </div>
+</footer>
+
+
+
+
+</body></html>
+------MultipartBoundary--FGcIzYV0zWjmVDcdncyDIzS6jMipyg4Odt3OEF8mmv----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Rajdhani:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 900; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4GM-aUWA.woff2") format("woff2"); unicode-range: U+900-97F, U+=
+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0=
+-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4JM-aUWA.woff2") format("woff2"); unicode-range: U+100-2BA, U+=
+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF,=
+ U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60=
+-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4HM-Y.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--FGcIzYV0zWjmVDcdncyDIzS6jMipyg4Odt3OEF8mmv----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-983ebf2f-0ec8-4509-829b-0ba15611c9e4@mhtml.blink
+
+@charset "utf-8";
+
+:root { --navy: #070b22; --navy2: #0c1338; --panel: #0e1845; --panel2: #121=
+d52; --cyan: #00f0ff; --gold: #ffd24a; --purple: #b06bff; --pink: #ff4dd8; =
+--green: #39ff88; --red: #ff4d6d; --ink: #e7ecff; --dim: #8ea0d8; --line: r=
+gba(0,240,255,.22); --display: 'Orbitron',sans-serif; --body: 'Rajdhani',sa=
+ns-serif; --mono: 'JetBrains Mono',monospace; }
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+html { scroll-behavior: smooth; }
+
+body { background: radial-gradient(1200px 700px at 80% -10%, rgba(176, 107,=
+ 255, 0.18), transparent 60%), radial-gradient(900px 600px at -10% 20%, rgb=
+a(0, 240, 255, 0.14), transparent 55%), linear-gradient(rgb(5, 8, 26), rgb(=
+7, 11, 34) 40%, rgb(5, 8, 26)); color: var(--ink); font-family: var(--body)=
+; min-height: 100vh; overflow-x: hidden; font-size: 18px; line-height: 1.55=
+; }
+
+body::before { content: ""; position: fixed; inset: 0px; pointer-events: no=
+ne; z-index: 9; background: repeating-linear-gradient(0deg, rgba(0, 0, 0, 0=
+) 0px, rgba(0, 0, 0, 0) 2px, rgba(0, 0, 0, 0.18) 2px, rgba(0, 0, 0, 0.18) 3=
+px); mix-blend-mode: overlay; opacity: 0.5; }
+
+body::after { content: ""; position: fixed; inset: 0px; pointer-events: non=
+e; z-index: 8; background: radial-gradient(circle, transparent 60%, rgba(0,=
+ 0, 0, 0.45)); }
+
+a { color: var(--cyan); }
+
+.wrap { max-width: 1080px; margin: 0px auto; padding: 0px 22px; }
+
+h1, h2, h3, .dfont { font-family: var(--display); }
+
+.mono { font-family: var(--mono); }
+
+header.hero { position: relative; padding: 64px 0px 40px; text-align: cente=
+r; overflow: hidden; }
+
+.hero .grid-bg { position: absolute; inset: 0px; z-index: 0; opacity: 0.4; =
+background-image: linear-gradient(var(--line) 1px,transparent 1px),linear-g=
+radient(90deg,var(--line) 1px,transparent 1px); background-size: 42px 42px;=
+ mask-image: radial-gradient(70% 80% at 50% 30%, rgb(0, 0, 0), transparent =
+75%); }
+
+.hero .inner { position: relative; z-index: 2; }
+
+.kicker { font-family: var(--mono); letter-spacing: 0.45em; color: var(--cy=
+an); font-size: 0.72rem; text-transform: uppercase; }
+
+.hero h1 { font-size: clamp(2.1rem, 6vw, 4rem); font-weight: 900; line-heig=
+ht: 1.02; margin: 14px 0px 6px; background-image: ; background-position-x: =
+; background-position-y: ; background-size: ; background-repeat: ; backgrou=
+nd-attachment: ; background-origin: ; background-color: ; background-clip: =
+text; color: transparent; text-shadow: rgba(0, 240, 255, 0.25) 0px 0px 50px=
+; }
+
+.hero .sub { color: var(--dim); font-size: 1.15rem; max-width: 640px; margi=
+n: 6px auto 0px; font-weight: 500; }
+
+.badges { display: flex; gap: 10px; justify-content: center; flex-wrap: wra=
+p; margin-top: 22px; }
+
+.badge { font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.12e=
+m; text-transform: uppercase; border: 1px solid var(--line); padding: 7px 1=
+4px; border-radius: 999px; color: var(--cyan); background: rgba(0, 240, 255=
+, 0.05); }
+
+.start-btn { display: inline-block; margin-top: 26px; font-family: var(--di=
+splay); font-weight: 700; letter-spacing: 0.08em; padding: 14px 30px; borde=
+r-radius: 10px; text-decoration: none; color: rgb(4, 32, 58); background: l=
+inear-gradient(92deg,var(--cyan),#8af); box-shadow: rgba(0, 240, 255, 0.4) =
+0px 0px 30px; transition: 0.2s; }
+
+.start-btn:hover { transform: translateY(-2px); box-shadow: rgba(0, 240, 25=
+5, 0.65) 0px 0px 44px; }
+
+nav.steps { position: sticky; top: 0px; z-index: 20; background: rgba(7, 11=
+, 34, 0.82); backdrop-filter: blur(10px); border-bottom: 1px solid var(--li=
+ne); }
+
+nav.steps .wrap { display: flex; gap: 6px; overflow-x: auto; padding: 10px =
+22px; }
+
+nav.steps a { flex: 0 0 auto; font-family: var(--mono); font-size: 0.7rem; =
+letter-spacing: 0.08em; text-transform: uppercase; color: var(--dim); text-=
+decoration: none; padding: 7px 12px; border-radius: 7px; border: 1px solid =
+transparent; white-space: nowrap; }
+
+nav.steps a:hover { color: var(--cyan); border-color: var(--line); backgrou=
+nd: rgba(0, 240, 255, 0.05); }
+
+section { padding: 58px 0px; position: relative; }
+
+.sechead { display: flex; align-items: center; gap: 16px; margin-bottom: 8p=
+x; }
+
+.secnum { font-family: var(--mono); color: var(--gold); font-size: 0.85rem;=
+ border: 1px solid rgba(255, 210, 74, 0.4); padding: 4px 10px; border-radiu=
+s: 6px; background: rgba(255, 210, 74, 0.06); }
+
+.sechead h2 { font-size: clamp(1.5rem, 4vw, 2.3rem); font-weight: 700; lett=
+er-spacing: 0.01em; }
+
+.lead { color: var(--dim); max-width: 760px; font-size: 1.12rem; margin-bot=
+tom: 26px; font-weight: 500; }
+
+.lead b { color: var(--ink); }
+
+.card { background: linear-gradient(160deg,var(--panel),var(--navy2)); bord=
+er: 1px solid var(--line); border-radius: 16px; padding: 24px; position: re=
+lative; overflow: hidden; }
+
+.card::before { content: ""; position: absolute; top: 0px; left: 0px; right=
+: 0px; height: 2px; background: linear-gradient(90deg,transparent,var(--cya=
+n),transparent); opacity: 0.7; }
+
+.glow { box-shadow: rgba(0, 240, 255, 0.08) 0px 0px 40px, rgba(0, 240, 255,=
+ 0.03) 0px 0px 60px inset; }
+
+.analogy { border-left: 3px solid var(--purple); background: rgba(176, 107,=
+ 255, 0.08); padding: 14px 18px; border-radius: 0px 10px 10px 0px; margin: =
+14px 0px; font-size: 1.05rem; }
+
+.analogy b { color: var(--purple); }
+
+.tip { border-left: 3px solid var(--gold); background: rgba(255, 210, 74, 0=
+.08); padding: 14px 18px; border-radius: 0px 10px 10px 0px; margin: 14px 0p=
+x; }
+
+.tip b { color: var(--gold); }
+
+.ohm-wrap { display: grid; grid-template-columns: 1fr 1.1fr; gap: 24px; ali=
+gn-items: center; }
+
+@media (max-width: 760px) {
+  .ohm-wrap { grid-template-columns: 1fr; }
+}
+
+.tri { position: relative; width: 100%; max-width: 320px; margin: 0px auto;=
+ aspect-ratio: 1.15 / 1; }
+
+.tri svg { width: 100%; height: 100%; filter: drop-shadow(rgba(0, 240, 255,=
+ 0.25) 0px 0px 16px); }
+
+.calc label { display: block; font-family: var(--mono); font-size: 0.72rem;=
+ letter-spacing: 0.1em; text-transform: uppercase; color: var(--dim); margi=
+n: 14px 0px 5px; }
+
+.calc input { width: 100%; padding: 11px 14px; border-radius: 9px; backgrou=
+nd: rgb(6, 10, 32); border: 1px solid var(--line); color: var(--cyan); font=
+-family: var(--mono); font-size: 1.05rem; }
+
+.calc input:focus { outline: none; border-color: var(--cyan); box-shadow: r=
+gba(0, 240, 255, 0.3) 0px 0px 14px; }
+
+.ohm-out { margin-top: 16px; font-family: var(--mono); font-size: 1.3rem; c=
+olor: var(--gold); background: rgb(6, 10, 32); border: 1px solid rgba(255, =
+210, 74, 0.3); border-radius: 10px; padding: 14px; text-align: center; min-=
+height: 54px; }
+
+.seg { display: flex; gap: 8px; margin-bottom: 6px; flex-wrap: wrap; }
+
+.seg button { flex: 1 1 0%; min-width: 90px; font-family: var(--mono); font=
+-size: 0.78rem; padding: 9px; border-radius: 8px; cursor: pointer; backgrou=
+nd: rgb(10, 17, 48); border: 1px solid var(--line); color: var(--dim); tran=
+sition: 0.15s; }
+
+.seg button.on { background: linear-gradient(92deg,var(--cyan),#7df); color=
+: rgb(4, 32, 58); border-color: var(--cyan); font-weight: 700; }
+
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(2=
+00px, 1fr)); gap: 16px; margin-top: 18px; }
+
+.flip { perspective: 1200px; height: 210px; cursor: pointer; }
+
+.flip-in { position: relative; width: 100%; height: 100%; transition: trans=
+form 0.6s cubic-bezier(0.4, 0.2, 0.2, 1); transform-style: preserve-3d; }
+
+.flip.flipped .flip-in { transform: rotateY(180deg); }
+
+.face { position: absolute; inset: 0px; backface-visibility: hidden; border=
+-radius: 14px; border: 1px solid var(--line); background: linear-gradient(1=
+60deg,var(--panel),var(--navy)); padding: 16px; display: flex; flex-directi=
+on: column; align-items: center; justify-content: center; text-align: cente=
+r; }
+
+.face.back { transform: rotateY(180deg); background: linear-gradient(160deg=
+,#13205c,var(--navy)); justify-content: flex-start; }
+
+.face svg { width: 90px; height: 60px; margin-bottom: 10px; }
+
+.face .cname { font-family: var(--display); font-weight: 600; font-size: 1.=
+02rem; color: var(--cyan); }
+
+.face .tap { font-family: var(--mono); font-size: 0.62rem; letter-spacing: =
+0.12em; color: var(--dim); margin-top: 8px; text-transform: uppercase; }
+
+.face.back .cname { margin-bottom: 8px; }
+
+.face.back p { font-size: 0.92rem; color: var(--ink); line-height: 1.4; }
+
+.face.back .role { font-family: var(--mono); font-size: 0.68rem; color: var=
+(--gold); margin-top: 10px; letter-spacing: 0.06em; }
+
+.decoder { display: grid; grid-template-columns: 1fr 1fr; gap: 26px; }
+
+@media (max-width: 840px) {
+  .decoder { grid-template-columns: 1fr; }
+}
+
+#resCanvas { width: 100%; height: 300px; border-radius: 14px; background: r=
+adial-gradient(circle at 50% 40%, rgb(12, 19, 54), rgb(5, 8, 26)); border: =
+1px solid var(--line); cursor: grab; touch-action: none; }
+
+#resCanvas:active { cursor: grabbing; }
+
+.spin-hint { font-family: var(--mono); font-size: 0.66rem; color: var(--dim=
+); text-align: center; margin-top: 6px; letter-spacing: 0.1em; }
+
+.bandrow { margin: 12px 0px; }
+
+.bandrow .lbl { font-family: var(--mono); font-size: 0.72rem; letter-spacin=
+g: 0.08em; text-transform: uppercase; color: var(--dim); margin-bottom: 6px=
+; }
+
+.swatches { display: flex; flex-wrap: wrap; gap: 6px; }
+
+.sw { width: 30px; height: 30px; border-radius: 7px; cursor: pointer; borde=
+r: 2px solid transparent; position: relative; transition: 0.12s; }
+
+.sw:hover { transform: scale(1.12); }
+
+.sw.sel { border-color: rgb(255, 255, 255); box-shadow: rgba(255, 255, 255,=
+ 0.5) 0px 0px 12px; }
+
+.readout { font-family: var(--mono); text-align: center; margin-top: 16px; =
+background: rgb(6, 10, 32); border: 1px solid var(--line); border-radius: 1=
+2px; padding: 18px; }
+
+.readout .val { font-size: 2rem; color: var(--gold); font-weight: 700; text=
+-shadow: rgba(255, 210, 74, 0.4) 0px 0px 18px; }
+
+.readout .tol { color: var(--cyan); font-size: 1rem; margin-top: 4px; }
+
+.readout .breakdown { color: var(--dim); font-size: 0.78rem; margin-top: 8p=
+x; line-height: 1.6; }
+
+.mode-toggle { display: flex; gap: 8px; margin-bottom: 14px; }
+
+.mode-toggle button { flex: 1 1 0%; font-family: var(--mono); font-size: 0.=
+74rem; padding: 9px; border-radius: 8px; cursor: pointer; background: rgb(1=
+0, 17, 48); border: 1px solid var(--line); color: var(--dim); }
+
+.mode-toggle button.on { background: linear-gradient(92deg,var(--purple),#d=
+9a6ff); color: rgb(26, 6, 51); border-color: var(--purple); font-weight: 70=
+0; }
+
+.testbox { display: none; margin-top: 14px; }
+
+.testbox.show { display: block; }
+
+.testbox input { width: 100%; padding: 11px 14px; border-radius: 9px; backg=
+round: rgb(6, 10, 32); border: 1px solid var(--line); color: var(--cyan); f=
+ont-family: var(--mono); font-size: 1.05rem; }
+
+.testbox .btns { display: flex; gap: 8px; margin-top: 10px; }
+
+.btn { font-family: var(--display); font-weight: 600; letter-spacing: 0.05e=
+m; padding: 11px 18px; border-radius: 9px; cursor: pointer; border: 1px sol=
+id var(--line); background: rgb(10, 17, 48); color: var(--cyan); transition=
+: 0.15s; font-size: 0.85rem; }
+
+.btn:hover { background: rgba(0, 240, 255, 0.1); }
+
+.btn.primary { background: linear-gradient(92deg,var(--cyan),#7df); color: =
+rgb(4, 32, 58); border-color: var(--cyan); }
+
+.feedback { margin-top: 10px; font-family: var(--mono); font-size: 0.9rem; =
+min-height: 22px; }
+
+.feedback.ok { color: var(--green); }
+
+.feedback.no { color: var(--red); }
+
+.cctable { width: 100%; border-collapse: collapse; margin-top: 14px; font-f=
+amily: var(--mono); font-size: 0.82rem; overflow: hidden; border-radius: 12=
+px; }
+
+.cctable th, .cctable td { padding: 9px 10px; text-align: center; border-bo=
+ttom: 1px solid rgba(255, 255, 255, 0.06); }
+
+.cctable th { background: rgb(10, 17, 48); color: var(--cyan); font-size: 0=
+.7rem; letter-spacing: 0.06em; text-transform: uppercase; }
+
+.cctable td:first-child { text-align: left; }
+
+.chip { display: inline-block; width: 16px; height: 16px; border-radius: 4p=
+x; vertical-align: middle; margin-right: 8px; border: 1px solid rgba(255, 2=
+55, 255, 0.2); }
+
+.mnem { font-family: var(--body); font-size: 1.05rem; color: var(--ink); ma=
+rgin-top: 14px; text-align: center; }
+
+.mnem b { color: var(--gold); }
+
+.sp-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin=
+-top: 16px; }
+
+@media (max-width: 640px) {
+  .sp-grid { grid-template-columns: 1fr; }
+}
+
+.sp-card label { display: block; font-family: var(--mono); font-size: 0.7re=
+m; color: var(--dim); margin: 8px 0px 4px; letter-spacing: 0.08em; }
+
+.sp-card input { width: 100%; padding: 9px 12px; border-radius: 8px; backgr=
+ound: rgb(6, 10, 32); border: 1px solid var(--line); color: var(--cyan); fo=
+nt-family: var(--mono); }
+
+.sp-out { font-family: var(--mono); color: var(--gold); font-size: 1.2rem; =
+text-align: center; margin-top: 12px; padding: 10px; background: rgb(6, 10,=
+ 32); border-radius: 8px; border: 1px solid rgba(255, 210, 74, 0.3); }
+
+.match-q { background: linear-gradient(160deg,var(--panel),var(--navy)); bo=
+rder: 1px solid var(--line); border-radius: 14px; padding: 18px; margin-top=
+: 14px; display: flex; gap: 18px; align-items: center; flex-wrap: wrap; }
+
+.match-q svg { width: 110px; height: 70px; flex: 0 0 auto; background: rgb(=
+6, 10, 32); border-radius: 10px; padding: 6px; }
+
+.match-opts { display: flex; gap: 8px; flex-wrap: wrap; flex: 1 1 0%; }
+
+.match-opts button { font-family: var(--body); font-weight: 600; font-size:=
+ 0.95rem; padding: 10px 16px; border-radius: 8px; cursor: pointer; backgrou=
+nd: rgb(10, 17, 48); border: 1px solid var(--line); color: var(--ink); tran=
+sition: 0.15s; }
+
+.match-opts button:hover { border-color: var(--cyan); }
+
+.match-opts button.right { background: rgba(57, 255, 136, 0.18); border-col=
+or: var(--green); color: var(--green); }
+
+.match-opts button.wrong { background: rgba(255, 77, 109, 0.18); border-col=
+or: var(--red); color: var(--red); }
+
+.quiz-q { background: linear-gradient(160deg,var(--panel),var(--navy)); bor=
+der: 1px solid var(--line); border-radius: 14px; padding: 20px; margin-bott=
+om: 16px; }
+
+.quiz-q .qn { font-family: var(--mono); font-size: 0.72rem; color: var(--go=
+ld); letter-spacing: 0.1em; }
+
+.quiz-q .qt { font-size: 1.12rem; font-weight: 600; margin: 8px 0px 14px; }
+
+.quiz-q .opt { display: block; width: 100%; text-align: left; font-family: =
+var(--body); font-size: 1rem; padding: 12px 16px; margin-bottom: 8px; borde=
+r-radius: 9px; background: rgb(10, 17, 48); border: 1px solid var(--line); =
+color: var(--ink); cursor: pointer; transition: 0.12s; }
+
+.quiz-q .opt:hover { border-color: var(--cyan); background: rgba(0, 240, 25=
+5, 0.06); }
+
+.quiz-q .opt.right { background: rgba(57, 255, 136, 0.16); border-color: va=
+r(--green); }
+
+.quiz-q .opt.wrong { background: rgba(255, 77, 109, 0.16); border-color: va=
+r(--red); }
+
+.quiz-q .opt.locked { pointer-events: none; opacity: 0.85; }
+
+.quiz-q .exp { font-size: 0.92rem; color: var(--dim); margin-top: 8px; disp=
+lay: none; border-top: 1px solid var(--line); padding-top: 10px; }
+
+.quiz-q .exp.show { display: block; }
+
+.quiz-q .exp b { color: var(--cyan); }
+
+#scorebar { position: sticky; bottom: 0px; z-index: 15; background: rgba(7,=
+ 11, 34, 0.92); backdrop-filter: blur(8px); border: 1px solid var(--line); =
+border-radius: 14px; padding: 16px 20px; margin-top: 10px; text-align: cent=
+er; display: none; }
+
+#scorebar.show { display: block; }
+
+#scorebar .big { font-family: var(--display); font-size: 2rem; font-weight:=
+ 900; color: var(--gold); }
+
+#scorebar .msg { color: var(--dim); margin: 4px 0px 10px; }
+
+.progbar { height: 10px; border-radius: 6px; background: rgb(10, 17, 48); o=
+verflow: hidden; margin: 10px 0px; }
+
+.progbar i { display: block; height: 100%; width: 0px; background: linear-g=
+radient(92deg,var(--cyan),var(--green)); transition: width 0.6s; }
+
+.rules { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; m=
+argin-top: 6px; }
+
+@media (max-width: 760px) {
+  .rules { grid-template-columns: 1fr; }
+}
+
+.rule { background: linear-gradient(160deg,var(--panel),var(--navy)); borde=
+r: 1px solid var(--line); border-radius: 14px; padding: 18px; position: rel=
+ative; }
+
+.rule .rico { width: 42px; height: 42px; border-radius: 10px; display: flex=
+; align-items: center; justify-content: center; font-family: var(--mono); f=
+ont-weight: 700; font-size: 1.2rem; margin-bottom: 10px; }
+
+.rule-r .rico { background: rgba(255, 210, 74, 0.15); color: var(--gold); b=
+order: 1px solid rgba(255, 210, 74, 0.4); }
+
+.rule-v .rico { background: rgba(0, 240, 255, 0.15); color: var(--cyan); bo=
+rder: 1px solid var(--line); }
+
+.rule-a .rico { background: rgba(176, 107, 255, 0.15); color: var(--purple)=
+; border: 1px solid rgba(176, 107, 255, 0.4); }
+
+.rule h3 { font-family: var(--display); font-size: 1.05rem; margin-bottom: =
+6px; }
+
+.rule p { font-size: 0.95rem; color: var(--ink); line-height: 1.45; }
+
+.rule p b { color: var(--cyan); }
+
+.rule .rwarn { margin-top: 10px; font-family: var(--mono); font-size: 0.7re=
+m; color: var(--red); letter-spacing: 0.04em; }
+
+.mm-grid { display: grid; grid-template-columns: 300px 1fr; gap: 26px; alig=
+n-items: start; }
+
+@media (max-width: 760px) {
+  .mm-grid { grid-template-columns: 1fr; }
+}
+
+.meter { background: linear-gradient(165deg, rgb(21, 48, 107), rgb(10, 23, =
+56)); border: 1px solid var(--line); border-radius: 18px; padding: 18px; bo=
+x-shadow: rgba(0, 0, 0, 0.4) 0px 0px 40px inset; }
+
+.meter.shake { animation: 0.45s ease 0s 1 normal none running shake; }
+
+@keyframes shake {=20
+  0%, 100% { transform: translateX(0px); }
+  20% { transform: translateX(-7px); }
+  40% { transform: translateX(7px); }
+  60% { transform: translateX(-5px); }
+  80% { transform: translateX(5px); }
+}
+
+.mm-screen { background: rgb(10, 31, 18); border: 2px solid rgb(20, 54, 31)=
+; border-radius: 10px; padding: 12px 14px; display: flex; align-items: base=
+line; justify-content: flex-end; gap: 8px; box-shadow: rgba(57, 255, 136, 0=
+.18) 0px 0px 22px inset; min-height: 64px; }
+
+.mm-reading { font-family: var(--mono); font-weight: 700; font-size: 2.1rem=
+; color: rgb(93, 255, 160); text-shadow: rgba(57, 255, 136, 0.7) 0px 0px 12=
+px; letter-spacing: 0.04em; transition: opacity 0.12s; }
+
+.mm-reading.flick { opacity: 0.25; }
+
+.mm-reading.danger { color: var(--red); text-shadow: rgba(255, 77, 109, 0.8=
+) 0px 0px 14px; }
+
+.mm-unit { font-family: var(--mono); font-size: 1.1rem; color: rgb(57, 255,=
+ 136); opacity: 0.85; }
+
+.mm-brand { font-family: var(--mono); font-size: 0.6rem; letter-spacing: 0.=
+3em; color: var(--dim); text-align: right; margin: 6px 2px 4px; }
+
+.dial { width: 100%; max-width: 240px; display: block; margin: 6px auto; cu=
+rsor: pointer; }
+
+.dial .seg-hit { fill: transparent; cursor: pointer; }
+
+.dial .seg-lbl { font-family: var(--mono); font-size: 11px; fill: var(--dim=
+); font-weight: 700; pointer-events: none; transition: fill 0.2s; }
+
+.dial .seg-lbl.active { fill: var(--cyan); }
+
+.dial .needle { transition: transform 0.45s cubic-bezier(0.34, 1.4, 0.5, 1)=
+; transform-origin: 100px 100px; }
+
+.jacks { display: flex; justify-content: space-around; gap: 8px; margin-top=
+: 8px; }
+
+.jack { font-family: var(--mono); font-size: 0.66rem; color: var(--dim); te=
+xt-align: center; letter-spacing: 0.04em; }
+
+.jack .dot { display: block; width: 18px; height: 18px; border-radius: 50%;=
+ margin: 0px auto 4px; background: rgb(6, 16, 31); border: 2px solid rgb(43=
+, 58, 120); }
+
+.jack-com .dot { border-color: rgb(107, 123, 184); }
+
+.jack.live .dot { border-color: rgb(255, 77, 109); box-shadow: rgba(255, 77=
+, 109, 0.7) 0px 0px 12px; }
+
+.jack-com.live .dot { border-color: rgb(170, 180, 224); box-shadow: rgba(17=
+0, 180, 224, 0.6) 0px 0px 10px; }
+
+.probe-note { font-family: var(--mono); font-size: 0.66rem; color: var(--di=
+m); text-align: center; margin-top: 10px; }
+
+.probe-note b { color: var(--gold); }
+
+.circuit { display: flex; flex-direction: column; }
+
+#circuitSvg { width: 100%; background: radial-gradient(circle at 60% 40%, r=
+gb(12, 23, 64), rgb(7, 13, 36)); border: 1px solid var(--line); border-radi=
+us: 14px; }
+
+.flowWire-on { animation: 1s linear 0s infinite normal none running flow; o=
+pacity: 0.9 !important; }
+
+@keyframes flow {=20
+  100% { stroke-dashoffset: -48; }
+}
+
+.power-row { display: flex; align-items: center; justify-content: space-bet=
+ween; margin-top: 12px; background: rgb(10, 17, 48); border: 1px solid var(=
+--line); border-radius: 10px; padding: 10px 14px; }
+
+.power-row .mono { font-size: 0.72rem; letter-spacing: 0.1em; color: var(--=
+dim); }
+
+.pwr { font-family: var(--display); font-weight: 700; padding: 8px 22px; bo=
+rder-radius: 8px; cursor: pointer; border: 1px solid var(--line); backgroun=
+d: rgb(26, 16, 32); color: var(--red); letter-spacing: 0.1em; transition: 0=
+.2s; }
+
+.pwr.on { background: rgba(57, 255, 136, 0.15); color: var(--green); border=
+-color: var(--green); box-shadow: rgba(57, 255, 136, 0.4) 0px 0px 16px; }
+
+.mm-controls { display: grid; grid-template-columns: 1fr 1.4fr; gap: 18px; =
+margin-top: 22px; }
+
+@media (max-width: 620px) {
+  .mm-controls { grid-template-columns: 1fr; }
+}
+
+.ctrl-step { font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0=
+.12em; color: var(--gold); text-transform: uppercase; margin-bottom: 8px; }
+
+.ctrl-hint { font-size: 0.8rem; color: var(--dim); }
+
+.placement { display: flex; flex-wrap: wrap; gap: 8px; }
+
+.placement button { font-family: var(--body); font-weight: 600; font-size: =
+0.92rem; padding: 9px 14px; border-radius: 8px; cursor: pointer; background=
+: rgb(10, 17, 48); border: 1px solid var(--line); color: var(--ink); transi=
+tion: 0.15s; }
+
+.placement button:hover { border-color: var(--cyan); }
+
+.placement button.on { background: linear-gradient(92deg,var(--cyan),#7df);=
+ color: rgb(4, 32, 58); border-color: var(--cyan); font-weight: 700; }
+
+.mm-status { margin-top: 18px; font-family: var(--mono); font-size: 0.95rem=
+; line-height: 1.5; padding: 14px 16px; border-radius: 10px; background: rg=
+b(10, 17, 48); border: 1px solid var(--line); color: var(--dim); min-height=
+: 54px; }
+
+.mm-status.ok { border-color: var(--green); color: rgb(157, 255, 196); back=
+ground: rgba(57, 255, 136, 0.07); }
+
+.mm-status.warn { border-color: var(--gold); color: rgb(255, 227, 154); bac=
+kground: rgba(255, 210, 74, 0.07); }
+
+.mm-status.danger { border-color: var(--red); color: rgb(255, 159, 176); ba=
+ckground: rgba(255, 77, 109, 0.1); }
+
+footer { margin-top: 40px; border-top: 1px solid var(--line); padding: 34px=
+ 0px 50px; text-align: center; }
+
+.verse { font-family: var(--body); font-style: italic; color: var(--ink); f=
+ont-size: 1.15rem; max-width: 640px; margin: 0px auto; }
+
+.verse .ref { display: block; font-family: var(--mono); font-style: normal;=
+ color: var(--gold); font-size: 0.8rem; margin-top: 10px; letter-spacing: 0=
+.12em; }
+
+.sig { font-family: var(--mono); font-size: 0.7rem; color: var(--dim); marg=
+in-top: 22px; letter-spacing: 0.1em; }
+
+.reveal { opacity: 0; transform: translateY(24px); transition: 0.7s; }
+
+.reveal.in { opacity: 1; transform: none; }
+------MultipartBoundary--FGcIzYV0zWjmVDcdncyDIzS6jMipyg4Odt3OEF8mmv------

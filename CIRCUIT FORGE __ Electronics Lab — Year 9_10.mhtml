@@ -1,0 +1,1089 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Clarence/Downloads/circuit-forge_1.html
+Subject: =?utf-8?Q?CIRCUIT=20FORGE=20::=20Electronics=20Lab=20=E2=80=94=20Year=209?=
+ =?utf-8?Q?/10?=
+Date: Sun, 31 May 2026 13:23:18 +1000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--BSuGxFvlq1rnemUb2sAK94JAQwcWMKDZxJpI114tew----"
+
+
+------MultipartBoundary--BSuGxFvlq1rnemUb2sAK94JAQwcWMKDZxJpI114tew----
+Content-Type: text/html
+Content-ID: <frame-1F2D70178574EE16FE3C2EE49AE9A285@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Clarence/Downloads/circuit-forge_1.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-432c5815-04fb-429e-97cf-eb7fb396864e@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<title>CIRCUIT FORGE :: Electronics Lab =E2=80=94 Year 9/10</title>
+<link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+<link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigin=3D=
+"">
+<link href=3D"https://fonts.googleapis.com/css2?family=3DOrbitron:wght@500;=
+700;900&amp;family=3DRajdhani:wght@400;500;600;700&amp;family=3DJetBrains+M=
+ono:wght@400;500;700&amp;display=3Dswap" rel=3D"stylesheet">
+
+</head>
+<body>
+
+<nav>
+  <div class=3D"brand">CIRCUIT&nbsp;<b>FORGE</b></div>
+  <span class=3D"pill">=E2=9A=A1 Year 9/10 Electronics</span>
+  <div class=3D"links">
+    <a class=3D"lnk" href=3D"file:///C:/Users/Clarence/Downloads/circuit-fo=
+rge_1.html#why">Why</a>
+    <a class=3D"lnk" href=3D"file:///C:/Users/Clarence/Downloads/circuit-fo=
+rge_1.html#ideas">Big Ideas</a>
+    <a class=3D"lnk" href=3D"file:///C:/Users/Clarence/Downloads/circuit-fo=
+rge_1.html#parts">Components</a>
+    <a class=3D"lnk" href=3D"file:///C:/Users/Clarence/Downloads/circuit-fo=
+rge_1.html#lab">The Lab</a>
+    <a class=3D"lnk" href=3D"file:///C:/Users/Clarence/Downloads/circuit-fo=
+rge_1.html#missions">Missions</a>
+    <a class=3D"lnk" href=3D"file:///C:/Users/Clarence/Downloads/circuit-fo=
+rge_1.html#quiz">Evaluate</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section id=3D"hero">
+  <canvas id=3D"heroCanvas" width=3D"1574" height=3D"784"></canvas>
+  <div class=3D"inner">
+    <span class=3D"kicker">Plenty Valley Christian College =C2=B7 Digital T=
+echnologies</span>
+    <h1>BUILD CIRCUITS.<br>MAKE <span class=3D"spark">LIGHT.</span></h1>
+    <p class=3D"sub">Every phone, car, console and spacecraft runs on the s=
+ame hidden language: <b class=3D"acy">electrons moving through circuits</b>=
+. In this lab you'll wire real circuits on a 3D breadboard, watch current f=
+low, and learn the rules that power the modern world =E2=80=94 no smoke, no=
+ shocks, infinite re-tries.</p>
+    <div class=3D"cta">
+      <a class=3D"btn gold" href=3D"file:///C:/Users/Clarence/Downloads/cir=
+cuit-forge_1.html#lab">=E2=9A=A1 Enter the Lab</a>
+      <a class=3D"btn ghost" href=3D"file:///C:/Users/Clarence/Downloads/ci=
+rcuit-forge_1.html#why">Why it matters =E2=86=92</a>
+    </div>
+  </div>
+</section>
+
+<!-- WHY -->
+<section id=3D"why">
+  <span class=3D"kicker">// Mission Brief</span>
+  <h2 class=3D"h2 fade in">You already live inside circuits</h2>
+  <p class=3D"lead fade in">You can't see them, but billions of tiny switch=
+es and wires are working for you right now. Understanding how they work tur=
+ns you from a <i>user</i> of technology into a <b class=3D"accent">maker</b=
+> of it.</p>
+  <div class=3D"grid g4" style=3D"margin-top:26px">
+    <div class=3D"card fade in"><span class=3D"ico">=F0=9F=93=B1</span><h3>=
+Your phone</h3><p>~16 billion transistors =E2=80=94 microscopic switches =
+=E2=80=94 flipping on and off to show this screen.</p></div>
+    <div class=3D"card fade in"><span class=3D"ico">=F0=9F=9A=97</span><h3>=
+Modern cars</h3><p>100+ computers control braking, engine and airbags throu=
+gh circuit boards and sensors.</p></div>
+    <div class=3D"card fade in"><span class=3D"ico">=F0=9F=8E=AE</span><h3>=
+Game consoles</h3><p>A GPU is millions of circuits doing maths in parallel =
+to render a single frame.</p></div>
+    <div class=3D"card fade in"><span class=3D"ico">=F0=9F=9B=B0=EF=B8=8F</=
+span><h3>Satellites</h3><p>Hardened circuits survive radiation and -150=C2=
+=B0C to keep GPS and the internet alive.</p></div>
+  </div>
+</section>
+
+<div class=3D"divider"></div>
+
+<!-- BIG IDEAS / WATER ANALOGY -->
+<section id=3D"ideas">
+  <span class=3D"kicker">// The Three Quantities</span>
+  <h2 class=3D"h2 fade in">Voltage, Current &amp; Resistance =E2=80=94 the =
+water trick</h2>
+  <p class=3D"lead fade in">Electricity is invisible, so engineers picture =
+it as <b class=3D"acy">water in pipes</b>. Drag the sliders and watch how t=
+he three quantities push and pull on each other. This single mental model u=
+nlocks almost everything.</p>
+
+  <div class=3D"analogy fade in" style=3D"margin-top:26px">
+    <div class=3D"waterbox">
+      <canvas id=3D"waterCanvas" width=3D"594" height=3D"280"></canvas>
+      <div class=3D"grid g3" style=3D"margin-top:12px;text-align:center">
+        <div><div class=3D"kicker">Voltage (V)</div><div class=3D"readbig" =
+id=3D"rV" style=3D"font-size:20px">9 V</div><div class=3D"ps mono" style=3D=
+"color:var(--muted);font-size:11px">pump pressure</div></div>
+        <div><div class=3D"kicker">Resistance (=CE=A9)</div><div class=3D"r=
+eadbig" id=3D"rR" style=3D"font-size:20px">470 =CE=A9</div><div class=3D"ps=
+ mono" style=3D"color:var(--muted);font-size:11px">pipe narrowness</div></d=
+iv>
+        <div><div class=3D"kicker">Current (A)</div><div class=3D"readbig" =
+id=3D"rI" style=3D"font-size:20px;color:var(--green)">19 mA</div><div class=
+=3D"ps mono" style=3D"color:var(--muted);font-size:11px">flow rate</div></d=
+iv>
+      </div>
+    </div>
+    <div class=3D"sliders">
+      <label>=F0=9F=94=8B Voltage =E2=80=94 how hard the pump pushes</label=
+>
+      <div class=3D"row"><input type=3D"range" id=3D"sV" min=3D"0" max=3D"1=
+2" step=3D"0.5" value=3D"9"><span class=3D"readbig" id=3D"rV2">9 V</span></=
+div>
+      <label>=F0=9F=9A=A7 Resistance =E2=80=94 how narrow the pipe is</labe=
+l>
+      <div class=3D"row"><input type=3D"range" id=3D"sR" min=3D"10" max=3D"=
+2000" step=3D"10" value=3D"470"><span class=3D"readbig" id=3D"rR2">470 =CE=
+=A9</span></div>
+      <div class=3D"eqbox">Ohm's Law &nbsp;=E2=86=92&nbsp; I =3D V =C3=B7 R=
+ &nbsp;=3D&nbsp; <span id=3D"eqV" style=3D"color:var(--gold)">9</span> =C3=
+=B7 <span id=3D"eqR" style=3D"color:var(--cyan)">470</span> =3D <span id=3D=
+"eqI" style=3D"color:#fff">0.019 A</span></div>
+      <p class=3D"lead" style=3D"font-size:15px;margin-top:14px"><b class=
+=3D"acy">Voltage</b> is the push. <b class=3D"apu">Resistance</b> slows the=
+ flow. <b class=3D"agr">Current</b> is what actually moves. Raise voltage =
+=E2=86=92 more flow. Add resistance =E2=86=92 less flow. That's Ohm's Law, =
+the most useful equation in electronics.</p>
+    </div>
+  </div>
+</section>
+
+<div class=3D"divider"></div>
+
+<!-- COMPONENTS -->
+<section id=3D"parts">
+  <span class=3D"kicker">// Component Dossier</span>
+  <h2 class=3D"h2 fade in">Meet your toolkit</h2>
+  <p class=3D"lead fade in">Each component does one job. Learn the symbol a=
+nd the job, and you can read any circuit diagram on Earth.</p>
+  <div class=3D"grid g3" id=3D"dossier" style=3D"margin-top:26px"><div clas=
+s=3D"card fade in"><div style=3D"background:#04101f;border:1px solid var(--=
+line);border-radius:10px;padding:10px;margin-bottom:10px;display:flex;justi=
+fy-content:center"><svg width=3D"60" height=3D"34"><line x1=3D"0" y1=3D"17"=
+ x2=3D"22" y2=3D"17" stroke=3D"#3dff8b" stroke-width=3D"2.5"></line><line x=
+1=3D"22" y1=3D"6" x2=3D"22" y2=3D"28" stroke=3D"#3dff8b" stroke-width=3D"3"=
+></line><line x1=3D"30" y1=3D"11" x2=3D"30" y2=3D"23" stroke=3D"#3dff8b" st=
+roke-width=3D"2"></line><line x1=3D"38" y1=3D"6" x2=3D"38" y2=3D"28" stroke=
+=3D"#3dff8b" stroke-width=3D"3"></line><line x1=3D"38" y1=3D"17" x2=3D"60" =
+y2=3D"17" stroke=3D"#3dff8b" stroke-width=3D"2.5"></line></svg></div><h3>Ba=
+ttery / Cell</h3><p>The pump. Provides voltage that pushes current around t=
+he loop.</p><p style=3D"color:var(--ink);margin-top:6px;font-size:13px">=F0=
+=9F=93=8D AA cell =3D 1.5 V =C2=B7 9 V block =C2=B7 car battery =3D 12 V</p=
+><span class=3D"tag">source</span></div><div class=3D"card fade in"><div st=
+yle=3D"background:#04101f;border:1px solid var(--line);border-radius:10px;p=
+adding:10px;margin-bottom:10px;display:flex;justify-content:center"><svg wi=
+dth=3D"60" height=3D"34"><polyline points=3D"0,17 12,17 16,6 24,28 32,6 40,=
+28 44,17 60,17" fill=3D"none" stroke=3D"#ffd23f" stroke-width=3D"2.5"></pol=
+yline></svg></div><h3>Resistor</h3><p>Limits current to a safe level. Witho=
+ut one, sensitive parts burn out.</p><p style=3D"color:var(--ink);margin-to=
+p:6px;font-size:13px">=F0=9F=93=8D Protects LEDs, sets brightness, divides =
+voltage</p><span class=3D"tag">protection</span></div><div class=3D"card fa=
+de in"><div style=3D"background:#04101f;border:1px solid var(--line);border=
+-radius:10px;padding:10px;margin-bottom:10px;display:flex;justify-content:c=
+enter"><svg width=3D"60" height=3D"34"><line x1=3D"0" y1=3D"17" x2=3D"20" y=
+2=3D"17" stroke=3D"#00e5ff" stroke-width=3D"2.5"></line><polygon points=3D"=
+20,7 20,27 36,17" fill=3D"#ff2e97"></polygon><line x1=3D"36" y1=3D"7" x2=3D=
+"36" y2=3D"27" stroke=3D"#00e5ff" stroke-width=3D"2.5"></line><line x1=3D"3=
+6" y1=3D"17" x2=3D"60" y2=3D"17" stroke=3D"#00e5ff" stroke-width=3D"2.5"></=
+line><line x1=3D"38" y1=3D"4" x2=3D"46" y2=3D"-2" stroke=3D"#ffd23f" stroke=
+-width=3D"2"></line><line x1=3D"44" y1=3D"6" x2=3D"52" y2=3D"0" stroke=3D"#=
+ffd23f" stroke-width=3D"2"></line></svg></div><h3>LED</h3><p>Light Emitting=
+ Diode. Glows when current flows =E2=80=94 but only one way (it has polarit=
+y).</p><p style=3D"color:var(--ink);margin-top:6px;font-size:13px">=F0=9F=
+=93=8D Indicators, screens, traffic lights, your TV remote</p><span class=
+=3D"tag">output =C2=B7 diode</span></div><div class=3D"card fade in"><div s=
+tyle=3D"background:#04101f;border:1px solid var(--line);border-radius:10px;=
+padding:10px;margin-bottom:10px;display:flex;justify-content:center"><svg w=
+idth=3D"60" height=3D"34"><line x1=3D"0" y1=3D"17" x2=3D"18" y2=3D"17" stro=
+ke=3D"#a855f7" stroke-width=3D"2.5"></line><circle cx=3D"18" cy=3D"17" r=3D=
+"3" fill=3D"#a855f7"></circle><line x1=3D"18" y1=3D"17" x2=3D"40" y2=3D"6" =
+stroke=3D"#a855f7" stroke-width=3D"2.5"></line><circle cx=3D"42" cy=3D"17" =
+r=3D"3" fill=3D"#a855f7"></circle><line x1=3D"42" y1=3D"17" x2=3D"60" y2=3D=
+"17" stroke=3D"#a855f7" stroke-width=3D"2.5"></line></svg></div><h3>Switch<=
+/h3><p>A controllable gap. Closed =3D current flows. Open =3D circuit broke=
+n, no flow.</p><p style=3D"color:var(--ink);margin-top:6px;font-size:13px">=
+=F0=9F=93=8D Light switches, buttons, keyboards</p><span class=3D"tag">cont=
+rol</span></div><div class=3D"card fade in"><div style=3D"background:#04101=
+f;border:1px solid var(--line);border-radius:10px;padding:10px;margin-botto=
+m:10px;display:flex;justify-content:center"><svg width=3D"60" height=3D"34"=
+><line x1=3D"0" y1=3D"17" x2=3D"18" y2=3D"17" stroke=3D"#ffd23f" stroke-wid=
+th=3D"2.5"></line><circle cx=3D"30" cy=3D"17" r=3D"12" fill=3D"none" stroke=
+=3D"#ffd23f" stroke-width=3D"2.5"></circle><line x1=3D"22" y1=3D"9" x2=3D"3=
+8" y2=3D"25" stroke=3D"#ffd23f" stroke-width=3D"2"></line><line x1=3D"38" y=
+1=3D"9" x2=3D"22" y2=3D"25" stroke=3D"#ffd23f" stroke-width=3D"2"></line><l=
+ine x1=3D"42" y1=3D"17" x2=3D"60" y2=3D"17" stroke=3D"#ffd23f" stroke-width=
+=3D"2.5"></line></svg></div><h3>Lamp / Bulb</h3><p>Turns electrical energy =
+into light and heat. Brighter with more current.</p><p style=3D"color:var(-=
+-ink);margin-top:6px;font-size:13px">=F0=9F=93=8D Torches, headlights, indi=
+cators</p><span class=3D"tag">output =C2=B7 load</span></div><div class=3D"=
+card fade in"><div style=3D"background:#04101f;border:1px solid var(--line)=
+;border-radius:10px;padding:10px;margin-bottom:10px;display:flex;justify-co=
+ntent:center"><svg width=3D"60" height=3D"34"><line x1=3D"0" y1=3D"17" x2=
+=3D"60" y2=3D"17" stroke=3D"#00e5ff" stroke-width=3D"2.5"></line></svg></di=
+v><h3>Wire / Jumper</h3><p>A path with (almost) no resistance. Connects com=
+ponents into a complete loop.</p><p style=3D"color:var(--ink);margin-top:6p=
+x;font-size:13px">=F0=9F=93=8D Every circuit ever made needs these</p><span=
+ class=3D"tag">connection</span></div></div>
+</section>
+
+<div class=3D"divider"></div>
+
+<!-- THE LAB -->
+<section id=3D"lab" style=3D"max-width:1480px">
+  <span class=3D"kicker">// Virtual Breadboard =C2=B7 3D</span>
+  <h2 class=3D"h2 fade in">The Lab</h2>
+  <p class=3D"lead fade in">Pick a part on the left, click <b class=3D"acy"=
+>two breadboard holes</b> to drop it in, then add jumper wires to complete =
+the loop. Hit <b class=3D"agr">RUN</b> to push current. Probe anything with=
+ the multimeter on the right. Burn out an LED? Just rebuild it =E2=80=94 th=
+at's the point of a simulator.</p>
+
+  <div id=3D"labWrap" style=3D"margin-top:22px">
+  <div class=3D"lab">
+    <!-- LEFT: components -->
+    <div class=3D"lpanel" id=3D"partsPanel">
+      <h4>=E2=9A=A1 Sources</h4>
+      <div id=3D"srcList"><div class=3D"part" data-part=3D"battery"><div st=
+yle=3D"width:38px;height:32px;display:flex;align-items:center;justify-conte=
+nt:center;font-size:22px">=F0=9F=94=8B</div><div><div class=3D"pn">9V Batte=
+ry</div><div class=3D"ps">9 V source</div></div></div><div class=3D"part" d=
+ata-part=3D"aa"><div style=3D"width:38px;height:32px;display:flex;align-ite=
+ms:center;justify-content:center;font-size:22px">=F0=9F=94=8B</div><div><di=
+v class=3D"pn">AA Cell</div><div class=3D"ps">1.5 V source</div></div></div=
+><div class=3D"part" data-part=3D"supply"><div style=3D"width:38px;height:3=
+2px;display:flex;align-items:center;justify-content:center;font-size:22px">=
+=E2=9A=A1</div><div><div class=3D"pn">DC Supply</div><div class=3D"ps">0=E2=
+=80=9312 V variable</div></div></div></div>
+      <h4>=F0=9F=A7=A9 Components</h4>
+      <div id=3D"compList"><div class=3D"part" data-part=3D"resistor"><div =
+style=3D"width:38px;height:32px;display:flex;align-items:center;justify-con=
+tent:center;font-size:22px">=E3=80=B0=EF=B8=8F</div><div><div class=3D"pn">=
+Resistor</div><div class=3D"ps">limits current</div></div></div><div class=
+=3D"part" data-part=3D"led"><div style=3D"width:38px;height:32px;display:fl=
+ex;align-items:center;justify-content:center;font-size:22px">=F0=9F=92=A1</=
+div><div><div class=3D"pn">LED</div><div class=3D"ps">glows =C2=B7 has pola=
+rity</div></div></div><div class=3D"part" data-part=3D"pswitch"><div style=
+=3D"width:38px;height:32px;display:flex;align-items:center;justify-content:=
+center;font-size:22px">=F0=9F=8E=9A=EF=B8=8F</div><div><div class=3D"pn">Pu=
+sh Switch</div><div class=3D"ps">open / closed</div></div></div><div class=
+=3D"part" data-part=3D"lamp"><div style=3D"width:38px;height:32px;display:f=
+lex;align-items:center;justify-content:center;font-size:22px">=F0=9F=92=A1<=
+/div><div><div class=3D"pn">Light Bulb</div><div class=3D"ps">glows brighte=
+r w/ current</div></div></div><div class=3D"part" data-part=3D"buzzer"><div=
+ style=3D"width:38px;height:32px;display:flex;align-items:center;justify-co=
+ntent:center;font-size:22px">=F0=9F=94=94</div><div><div class=3D"pn">Buzze=
+r</div><div class=3D"ps">beeps when powered</div></div></div><div class=3D"=
+part" data-part=3D"motor"><div style=3D"width:38px;height:32px;display:flex=
+;align-items:center;justify-content:center;font-size:22px">=E2=9A=99=EF=B8=
+=8F</div><div><div class=3D"pn">DC Motor</div><div class=3D"ps">spins when =
+powered</div></div></div><div class=3D"part" data-part=3D"wire"><div style=
+=3D"width:38px;height:32px;display:flex;align-items:center;justify-content:=
+center;font-size:22px">=E2=9E=B0</div><div><div class=3D"pn">Jumper Wire</d=
+iv><div class=3D"ps">connects two holes</div></div></div></div>
+      <h4>=F0=9F=94=A7 Selected Value</h4>
+      <div class=3D"valctl" id=3D"valCtl"><label>=E2=9C=8E Editing resistor=
+ =E2=80=94 Resistance (=CE=A9)</label><select id=3D"vSelE"><option value=3D=
+"100">100 =CE=A9</option><option value=3D"220">220 =CE=A9</option><option v=
+alue=3D"330">330 =CE=A9</option><option value=3D"470" selected=3D"">470 =CE=
+=A9</option><option value=3D"1000">1 k=CE=A9</option><option value=3D"4700"=
+>4.7 k=CE=A9</option><option value=3D"10000">10 k=CE=A9</option></select></=
+div>
+    </div>
+
+    <!-- CENTER: 3D stage -->
+    <div class=3D"stage">
+      <canvas id=3D"labCanvas" width=3D"1138" height=3D"784" style=3D"curso=
+r: grab;"></canvas>
+      <div class=3D"toolbar">
+        <button class=3D"tool on" data-mode=3D"place" id=3D"tPlace">=EF=BC=
+=8B Place</button>
+        <button class=3D"tool" data-mode=3D"wire" id=3D"tWire">=E2=8C=87 Wi=
+re</button>
+        <button class=3D"tool" data-mode=3D"move" id=3D"tMove">=E2=9C=A5 Mo=
+ve</button>
+        <button class=3D"tool del" data-mode=3D"delete" id=3D"tDel">=F0=9F=
+=97=91 Delete</button>
+        <button class=3D"tool" id=3D"tRotate">=E2=9F=B3 Flip part</button>
+        <button class=3D"tool run" id=3D"tRun">=E2=96=B6 RUN</button>
+        <button class=3D"tool" id=3D"tClear">=E2=9F=B2 Clear</button>
+        <button class=3D"tool" id=3D"tSound">=F0=9F=94=87 Sound</button>
+      </div>
+      <div class=3D"hintbubble" id=3D"hint" style=3D"opacity: 0.45;">Editin=
+g the Resistor =E2=80=94 change its value on the left. Pick a part to place=
+ a new one.</div>
+      <div class=3D"statusbar">
+        <span>Circuit: <b id=3D"stStatus" style=3D"color: var(--gold);">IDL=
+E</b></span>
+        <span>Total current: <b id=3D"stCurrent">0.0 mA</b></span>
+        <span>Power: <b id=3D"stPower">0.0 mW</b></span>
+        <span id=3D"stMode">Mode: PLACE</span>
+      </div>
+    </div>
+
+    <!-- RIGHT: measurement -->
+    <div class=3D"lpanel">
+      <h4>=F0=9F=94=AC Multimeter</h4>
+      <div class=3D"meter">
+        <div class=3D"scr" id=3D"dmmScreen">--</div>
+        <div class=3D"modes">
+          <button data-dm=3D"V" class=3D"on">Volts</button>
+          <button data-dm=3D"R">Ohms</button>
+          <button data-dm=3D"C">Cont</button>
+          <button data-dm=3D"I">Amps</button>
+        </div>
+        <p class=3D"ps mono" id=3D"dmmHelp" style=3D"color:var(--muted);mar=
+gin-top:8px;line-height:1.4">VOLTS: click 2 holes to read voltage between t=
+hem.</p>
+      </div>
+      <h4>=F0=9F=93=9F Live Read-out</h4>
+      <div class=3D"meter" style=3D"font-family:'JetBrains Mono';font-size:=
+13px;line-height:1.9">
+        <div>Source V: <b id=3D"roV" style=3D"color:var(--gold)">0.0 V</b><=
+/div>
+        <div>Loop I: <b id=3D"roI" style=3D"color:var(--green)">0.0 mA</b><=
+/div>
+        <div>Total R: <b id=3D"roR" style=3D"color:var(--cyan)">=E2=88=9E =
+=CE=A9</b></div>
+        <div>Parts: <b id=3D"roN" style=3D"color:#fff">1</b></div>
+      </div>
+      <h4>=E2=9A=A0=EF=B8=8F Diagnostics</h4>
+      <div class=3D"warnbox" id=3D"warnBox"><span class=3D"warn info">Power=
+ is OFF. Press =E2=96=B6 RUN to energise the circuit.</span></div>
+    </div>
+  </div>
+  </div>
+</section>
+
+<div class=3D"divider"></div>
+
+<!-- MISSIONS -->
+<section id=3D"missions">
+  <span class=3D"kicker">// Skill Challenges</span>
+  <h2 class=3D"h2 fade in">Missions</h2>
+  <p class=3D"lead fade in">Try these in the Lab above. Each one teaches a =
+real circuit-design rule. Tick them off as you go.</p>
+  <div class=3D"grid g2" style=3D"margin-top:24px">
+    <div class=3D"card fade in"><div class=3D"mission"><div class=3D"num">0=
+1</div><div><h3>First Light</h3><p>Wire a battery =E2=86=92 resistor =E2=86=
+=92 LED so it glows. If you skip the resistor, watch what happens to the LE=
+D.</p><span class=3D"tag">complete circuit =C2=B7 current limiting</span></=
+div></div></div>
+    <div class=3D"card fade in"><div class=3D"mission"><div class=3D"num">0=
+2</div><div><h3>The Switch</h3><p>Add a switch so you can turn your LED on =
+and off. Toggle it while RUN is active.</p><span class=3D"tag">control =C2=
+=B7 open vs closed</span></div></div></div>
+    <div class=3D"card fade in"><div class=3D"mission"><div class=3D"num">0=
+3</div><div><h3>Two in a Row</h3><p>Put two resistors in <i>series</i>. Use=
+ the multimeter =E2=80=94 does total resistance go up or down?</p><span cla=
+ss=3D"tag">series resistance</span></div></div></div>
+    <div class=3D"card fade in"><div class=3D"mission"><div class=3D"num">0=
+4</div><div><h3>Side by Side</h3><p>Wire two LEDs in <i>parallel</i> off on=
+e battery. Notice they each get the full voltage.</p><span class=3D"tag">pa=
+rallel circuits</span></div></div></div>
+    <div class=3D"card fade"><div class=3D"mission"><div class=3D"num">05</=
+div><div><h3>Right Way Round</h3><p>Flip an LED so it points backwards. Run=
+ it. Why does nothing happen? (LEDs have polarity!)</p><span class=3D"tag">=
+diodes =C2=B7 polarity</span></div></div></div>
+    <div class=3D"card fade"><div class=3D"mission"><div class=3D"num">06</=
+div><div><h3>Power Up</h3><p>Build a circuit with a motor or buzzer. Measur=
+e the current it draws compared to an LED.</p><span class=3D"tag">loads =C2=
+=B7 power</span></div></div></div>
+  </div>
+</section>
+
+<div class=3D"divider"></div>
+
+<!-- QUIZ -->
+<section id=3D"quiz">
+  <span class=3D"kicker">// Evaluation</span>
+  <h2 class=3D"h2 fade">Prove your circuit skills</h2>
+  <p class=3D"lead fade">Eight questions. Pick an answer to get instant fee=
+dback, then check your final score. Aim for the <b class=3D"accent">Master =
+Electrician</b> badge.</p>
+  <div id=3D"quizBox" style=3D"margin-top:24px"><div class=3D"q fade"><div =
+class=3D"qn">QUESTION 1 / 8</div><h3>For an LED to light up, the circuit mu=
+st be=E2=80=A6</h3>
+    <div class=3D"opt" data-q=3D"0" data-o=3D"0">a complete, unbroken loop<=
+/div><div class=3D"opt" data-q=3D"0" data-o=3D"1">as long as possible</div>=
+<div class=3D"opt" data-q=3D"0" data-o=3D"2">made only of wire</div><div cl=
+ass=3D"opt" data-q=3D"0" data-o=3D"3">painted a bright colour</div>
+    <div class=3D"fb" id=3D"fb0"></div></div><div class=3D"q fade"><div cla=
+ss=3D"qn">QUESTION 2 / 8</div><h3>Voltage is best described as the=E2=80=A6=
+</h3>
+    <div class=3D"opt" data-q=3D"1" data-o=3D"0">amount of metal in a wire<=
+/div><div class=3D"opt" data-q=3D"1" data-o=3D"1">push that drives current<=
+/div><div class=3D"opt" data-q=3D"1" data-o=3D"2">colour of the LED</div><d=
+iv class=3D"opt" data-q=3D"1" data-o=3D"3">number of switches</div>
+    <div class=3D"fb" id=3D"fb1"></div></div><div class=3D"q fade"><div cla=
+ss=3D"qn">QUESTION 3 / 8</div><h3>Using Ohm's Law, the current through a 5 =
+V supply and a 1000 =CE=A9 (1 k=CE=A9) resistor is=E2=80=A6</h3>
+    <div class=3D"opt" data-q=3D"2" data-o=3D"0">5 A</div><div class=3D"opt=
+" data-q=3D"2" data-o=3D"1">5 mA</div><div class=3D"opt" data-q=3D"2" data-=
+o=3D"2">200 mA</div><div class=3D"opt" data-q=3D"2" data-o=3D"3">0.2 A</div=
+>
+    <div class=3D"fb" id=3D"fb2"></div></div><div class=3D"q fade"><div cla=
+ss=3D"qn">QUESTION 4 / 8</div><h3>Why do we put a resistor in series with a=
+n LED?</h3>
+    <div class=3D"opt" data-q=3D"3" data-o=3D"0">to make it heavier</div><d=
+iv class=3D"opt" data-q=3D"3" data-o=3D"1">to limit the current so the LED =
+doesn't burn out</div><div class=3D"opt" data-q=3D"3" data-o=3D"2">to chang=
+e its colour</div><div class=3D"opt" data-q=3D"3" data-o=3D"3">resistors ar=
+e decorative</div>
+    <div class=3D"fb" id=3D"fb3"></div></div><div class=3D"q fade"><div cla=
+ss=3D"qn">QUESTION 5 / 8</div><h3>An LED only lights when current flows thr=
+ough it in one direction. This property is called=E2=80=A6</h3>
+    <div class=3D"opt" data-q=3D"4" data-o=3D"0">resistance</div><div class=
+=3D"opt" data-q=3D"4" data-o=3D"1">polarity</div><div class=3D"opt" data-q=
+=3D"4" data-o=3D"2">capacitance</div><div class=3D"opt" data-q=3D"4" data-o=
+=3D"3">luminosity</div>
+    <div class=3D"fb" id=3D"fb4"></div></div><div class=3D"q fade"><div cla=
+ss=3D"qn">QUESTION 6 / 8</div><h3>If you measure 0 V across an open switch =
+in a working circuit and the LED is off, the switch is probably=E2=80=A6</h=
+3>
+    <div class=3D"opt" data-q=3D"5" data-o=3D"0">closed</div><div class=3D"=
+opt" data-q=3D"5" data-o=3D"1">broken in half</div><div class=3D"opt" data-=
+q=3D"5" data-o=3D"2">open (breaking the loop)</div><div class=3D"opt" data-=
+q=3D"5" data-o=3D"3">too small</div>
+    <div class=3D"fb" id=3D"fb5"></div></div><div class=3D"q fade"><div cla=
+ss=3D"qn">QUESTION 7 / 8</div><h3>Two identical resistors placed in SERIES =
+give a total resistance that is=E2=80=A6</h3>
+    <div class=3D"opt" data-q=3D"6" data-o=3D"0">smaller than one resistor<=
+/div><div class=3D"opt" data-q=3D"6" data-o=3D"1">the same as one resistor<=
+/div><div class=3D"opt" data-q=3D"6" data-o=3D"2">larger (they add up)</div=
+><div class=3D"opt" data-q=3D"6" data-o=3D"3">always zero</div>
+    <div class=3D"fb" id=3D"fb6"></div></div><div class=3D"q fade"><div cla=
+ss=3D"qn">QUESTION 8 / 8</div><h3>A multimeter on the 'continuity' setting =
+beeps. This tells you the two points are=E2=80=A6</h3>
+    <div class=3D"opt" data-q=3D"7" data-o=3D"0">electrically connected</di=
+v><div class=3D"opt" data-q=3D"7" data-o=3D"1">far apart</div><div class=3D=
+"opt" data-q=3D"7" data-o=3D"2">made of plastic</div><div class=3D"opt" dat=
+a-q=3D"7" data-o=3D"3">at 240 V</div>
+    <div class=3D"fb" id=3D"fb7"></div></div></div>
+  <div style=3D"text-align:center;margin:10px 0 26px">
+    <button class=3D"btn gold" id=3D"scoreBtn">=E2=9A=A1 Reveal my score</b=
+utton>
+  </div>
+  <div id=3D"scorebox">
+    <div class=3D"kicker">Evaluation complete</div>
+    <div class=3D"big" id=3D"scoreNum">0 / 8</div>
+    <p class=3D"lead" id=3D"scoreMsg" style=3D"margin:0 auto"></p>
+    <div class=3D"badge" id=3D"scoreBadge">=E2=80=94 </div>
+  </div>
+</section>
+
+<footer>
+  <div class=3D"verse">"And God said, Let there be light: and there was lig=
+ht."</div>
+  <div class=3D"ref">=E2=80=94 Genesis 1:3</div>
+  <p style=3D"margin-top:14px">CIRCUIT FORGE =C2=B7 Digital Technologies =
+=C2=B7 Plenty Valley Christian College =E2=80=94 built for curious makers.<=
+/p>
+</footer>
+
+<!-- three.js -->
+
+
+
+
+
+</body></html>
+------MultipartBoundary--BSuGxFvlq1rnemUb2sAK94JAQwcWMKDZxJpI114tew----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx3cwhs=
+k.woff2") format("woff2"); unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxTcwhs=
+k.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxPcwhs=
+k.woff2") format("woff2"); unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx_cwhs=
+k.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPx7cwhs=
+k.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, =
+U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2=
+-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; =
+}
+
+@font-face { font-family: "JetBrains Mono"; font-style: normal; font-weight=
+: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/jetbrainsm=
+ono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.=
+woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+=
+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Orbitron; font-style: normal; font-weight: 900; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/orbitron/v35/yMJRM=
+IlzdpvBhQQL_Qq7dy0.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4GM-aUWA.woff2") format("woff2"); unicode-range: U+900-97F, U+=
+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0=
+-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4JM-aUWA.woff2") format("woff2"); unicode-range: U+100-2BA, U+=
+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF,=
+ U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60=
+-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 400; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDIxa=
+pCSOBg7S-QT7p4HM-Y.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U=
++152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F,=
+ U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 500; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pb0EPOreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 600; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pbYF_Oreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOqeef2kg.woff2") format("woff2"); unicode-range: U+900-97F=
+, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+=
+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOleef2kg.woff2") format("woff2"); unicode-range: U+100-2BA=
+, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1=
+DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+=
+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Rajdhani; font-style: normal; font-weight: 700; f=
+ont-display: swap; src: url("https://fonts.gstatic.com/s/rajdhani/v17/LDI2a=
+pCSOBg7S-QT7pa8FvOreec.woff2") format("woff2"); unicode-range: U+0-FF, U+13=
+1, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-2=
+06F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--BSuGxFvlq1rnemUb2sAK94JAQwcWMKDZxJpI114tew----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-432c5815-04fb-429e-97cf-eb7fb396864e@mhtml.blink
+
+@charset "utf-8";
+
+:root { --bg: #060818; --bg2: #0a0e27; --panel: #0e1430; --panel2: #131a3d;=
+ --cyan: #00e5ff; --gold: #ffd23f; --purple: #a855f7; --magenta: #ff2e97; -=
+-green: #3dff8b; --red: #ff4d5e; --ink: #cfe3ff; --muted: #7d8bb5; --line: =
+rgba(0,229,255,.18); --glow: 0 0 18px rgba(0,229,255,.45); }
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+html { scroll-behavior: smooth; }
+
+body { background: radial-gradient(1200px 700px at 80% -10%,rgba(168,85,247=
+,.12),transparent 60%),
+    radial-gradient(900px 600px at 0% 20%,rgba(0,229,255,.10),transparent 5=
+5%),
+    var(--bg); color: var(--ink); font-family: Rajdhani, sans-serif; overfl=
+ow-x: hidden; }
+
+body::before { content: ""; position: fixed; inset: 0px; z-index: 9999; poi=
+nter-events: none; background: repeating-linear-gradient(0deg, rgba(0, 0, 0=
+, 0.05) 0px, rgba(0, 0, 0, 0.05) 1px, transparent 1px, transparent 3px); mi=
+x-blend-mode: overlay; opacity: 0.5; }
+
+h1, h2, h3, .disp { font-family: Orbitron, sans-serif; letter-spacing: 1px;=
+ }
+
+.mono { font-family: "JetBrains Mono", monospace; }
+
+a { color: var(--cyan); text-decoration: none; }
+
+::selection { background: var(--cyan); color: rgb(0, 16, 24); }
+
+nav { position: sticky; top: 0px; z-index: 500; display: flex; align-items:=
+ center; gap: 18px; padding: 12px 22px; background: linear-gradient(rgba(6,=
+ 8, 24, 0.96), rgba(6, 8, 24, 0.78)); border-bottom: 1px solid var(--line);=
+ backdrop-filter: blur(8px); }
+
+nav .brand { font-family: Orbitron; font-weight: 900; color: rgb(255, 255, =
+255); font-size: 18px; text-shadow: var(--glow); }
+
+nav .brand b { color: var(--cyan); }
+
+nav .links { display: flex; gap: 6px; margin-left: auto; flex-wrap: wrap; }
+
+nav a.lnk { font-weight: 600; color: var(--muted); padding: 7px 12px; borde=
+r-radius: 8px; font-size: 14px; transition: 0.2s; }
+
+nav a.lnk:hover { color: var(--cyan); background: rgba(0, 229, 255, 0.08); =
+}
+
+.pill { font-family: "JetBrains Mono"; font-size: 11px; color: var(--gold);=
+ border: 1px solid rgba(255, 210, 63, 0.35); padding: 3px 9px; border-radiu=
+s: 20px; }
+
+section { padding: 64px 24px; max-width: 1280px; margin: 0px auto; position=
+: relative; }
+
+.kicker { font-family: "JetBrains Mono"; color: var(--cyan); font-size: 12p=
+x; letter-spacing: 3px; text-transform: uppercase; }
+
+.h2 { font-size: 34px; color: rgb(255, 255, 255); margin: 6px 0px 14px; tex=
+t-shadow: rgba(0, 229, 255, 0.25) 0px 0px 22px; }
+
+.lead { font-size: 18px; color: var(--muted); max-width: 760px; line-height=
+: 1.55; }
+
+.accent { color: var(--gold); }
+
+.acy { color: var(--cyan); }
+
+.apu { color: var(--purple); }
+
+.agr { color: var(--green); }
+
+#hero { min-height: 88vh; display: flex; flex-direction: column; justify-co=
+ntent: center; align-items: center; text-align: center; max-width: 1280px; =
+}
+
+#heroCanvas { position: absolute; inset: 0px; width: 100%; height: 100%; z-=
+index: 0; opacity: 0.9; }
+
+#hero .inner { position: relative; z-index: 2; }
+
+#hero h1 { font-size: clamp(38px, 7vw, 84px); font-weight: 900; color: rgb(=
+255, 255, 255); line-height: 0.98; text-shadow: rgba(0, 229, 255, 0.5) 0px =
+0px 30px, rgba(168, 85, 247, 0.3) 0px 0px 60px; }
+
+#hero h1 .spark { color: var(--gold); text-shadow: rgba(255, 210, 63, 0.7) =
+0px 0px 30px; }
+
+#hero p.sub { font-size: 20px; color: var(--ink); margin-top: 18px; max-wid=
+th: 680px; }
+
+.cta { display: inline-flex; gap: 14px; margin-top: 30px; flex-wrap: wrap; =
+justify-content: center; }
+
+.btn { font-family: Orbitron; font-weight: 700; font-size: 14px; letter-spa=
+cing: 1px; cursor: pointer; padding: 14px 26px; border-radius: 10px; border=
+: 1px solid var(--cyan); color: rgb(0, 16, 24); background: linear-gradient=
+(135deg,var(--cyan),#46f0ff); box-shadow: var(--glow); transition: 0.2s; }
+
+.btn:hover { transform: translateY(-2px); box-shadow: rgba(0, 229, 255, 0.8=
+) 0px 0px 28px; }
+
+.btn.ghost { background: transparent; color: var(--cyan); box-shadow: none;=
+ }
+
+.btn.ghost:hover { background: rgba(0, 229, 255, 0.1); }
+
+.btn.gold { border-color: var(--gold); background: linear-gradient(135deg,v=
+ar(--gold),#ffe27a); box-shadow: rgba(255, 210, 63, 0.5) 0px 0px 18px; }
+
+.grid { display: grid; gap: 18px; }
+
+.g3 { grid-template-columns: repeat(3, 1fr); }
+
+.g4 { grid-template-columns: repeat(4, 1fr); }
+
+.g2 { grid-template-columns: repeat(2, 1fr); }
+
+.card { background: linear-gradient(160deg,var(--panel),var(--panel2)); bor=
+der: 1px solid var(--line); border-radius: 14px; padding: 20px; position: r=
+elative; overflow: hidden; transition: 0.25s; }
+
+.card:hover { border-color: var(--cyan); transform: translateY(-3px); box-s=
+hadow: rgba(0, 0, 0, 0.4) 0px 10px 30px; }
+
+.card .ico { font-size: 30px; margin-bottom: 8px; display: block; }
+
+.card h3 { color: rgb(255, 255, 255); font-size: 17px; margin-bottom: 6px; =
+}
+
+.card p { color: var(--muted); font-size: 15px; line-height: 1.45; }
+
+.tag { display: inline-block; font-family: "JetBrains Mono"; font-size: 11p=
+x; color: var(--purple); border: 1px solid rgba(168, 85, 247, 0.35); border=
+-radius: 6px; padding: 2px 8px; margin-top: 10px; }
+
+.analogy { display: grid; grid-template-columns: 1.1fr 1fr; gap: 26px; alig=
+n-items: center; }
+
+.waterbox { background: rgb(6, 18, 42); border: 1px solid var(--line); bord=
+er-radius: 14px; padding: 18px; position: relative; }
+
+#waterCanvas { width: 100%; height: 280px; display: block; border-radius: 1=
+0px; background: linear-gradient(rgb(4, 16, 31), rgb(7, 26, 48)); }
+
+.sliders label { display: block; font-weight: 600; margin: 14px 0px 4px; co=
+lor: var(--ink); }
+
+.sliders .row { display: flex; align-items: center; gap: 12px; }
+
+input[type=3D"range"] { appearance: none; width: 100%; height: 6px; border-=
+radius: 6px; background: rgb(16, 32, 74); outline: none; }
+
+input[type=3D"range"]::-webkit-slider-thumb { appearance: none; width: 18px=
+; height: 18px; border-radius: 50%; background: var(--cyan); box-shadow: va=
+r(--glow); cursor: pointer; }
+
+.readbig { font-family: "JetBrains Mono"; font-size: 13px; color: var(--gol=
+d); min-width: 64px; text-align: right; }
+
+.eqbox { font-family: "JetBrains Mono"; margin-top: 18px; background: rgb(4=
+, 16, 31); border: 1px dashed var(--line); border-radius: 10px; padding: 14=
+px; color: var(--green); font-size: 18px; text-align: center; }
+
+#labWrap { max-width: 1480px; }
+
+.lab { display: grid; grid-template-columns: 230px 1fr 250px; gap: 12px; he=
+ight: 640px; }
+
+.lpanel { background: linear-gradient(180deg,var(--panel),#0b1130); border:=
+ 1px solid var(--line); border-radius: 14px; padding: 12px; overflow-y: aut=
+o; }
+
+.lpanel h4 { font-family: Orbitron; font-size: 12px; color: var(--cyan); le=
+tter-spacing: 1px; margin: 10px 0px 8px; padding-bottom: 6px; border-bottom=
+: 1px solid var(--line); }
+
+.lpanel h4:first-child { margin-top: 0px; }
+
+.part { display: flex; align-items: center; gap: 9px; padding: 8px; border:=
+ 1px solid transparent; border-radius: 9px; cursor: pointer; transition: 0.=
+15s; margin-bottom: 5px; background: rgba(255, 255, 255, 0.02); }
+
+.part:hover { border-color: var(--cyan); background: rgba(0, 229, 255, 0.07=
+); }
+
+.part.sel { border-color: var(--gold); background: rgba(255, 210, 63, 0.12)=
+; box-shadow: rgba(255, 210, 63, 0.25) 0px 0px 12px; }
+
+.part svg { flex: 0 0 38px; }
+
+.part .pn { font-weight: 600; font-size: 14px; color: var(--ink); }
+
+.part .ps { font-family: "JetBrains Mono"; font-size: 10px; color: var(--mu=
+ted); }
+
+.stage { position: relative; background: rgb(4, 8, 28); border: 1px solid v=
+ar(--line); border-radius: 14px; overflow: hidden; }
+
+#labCanvas { width: 100%; height: 100%; display: block; cursor: grab; }
+
+.toolbar { position: absolute; top: 10px; left: 10px; display: flex; gap: 6=
+px; flex-wrap: wrap; z-index: 6; }
+
+.tool { font-family: "JetBrains Mono"; font-size: 12px; color: var(--ink); =
+background: rgba(8, 14, 40, 0.9); border: 1px solid var(--line); padding: 7=
+px 11px; border-radius: 8px; cursor: pointer; transition: 0.15s; font-weigh=
+t: 700; }
+
+.tool:hover { border-color: var(--cyan); color: var(--cyan); }
+
+.tool.on { background: var(--cyan); color: rgb(0, 16, 24); border-color: va=
+r(--cyan); }
+
+.tool.run { border-color: var(--green); color: var(--green); }
+
+.tool.run.on { background: var(--green); color: rgb(0, 17, 34); }
+
+.tool.del { border-color: var(--red); color: var(--red); }
+
+.tool.del.on { background: var(--red); color: rgb(255, 255, 255); }
+
+.statusbar { position: absolute; bottom: 0px; left: 0px; right: 0px; displa=
+y: flex; gap: 18px; justify-content: center; padding: 8px; font-family: "Je=
+tBrains Mono"; font-size: 12px; background: linear-gradient(0deg, rgba(4, 8=
+, 28, 0.96), transparent); z-index: 6; }
+
+.statusbar b { color: var(--gold); }
+
+.hintbubble { position: absolute; top: 54px; left: 10px; z-index: 6; max-wi=
+dth: 300px; background: rgba(8, 14, 40, 0.95); border: 1px solid var(--gold=
+); border-radius: 10px; padding: 10px 12px; font-size: 13px; color: var(--i=
+nk); box-shadow: rgba(255, 210, 63, 0.25) 0px 0px 18px; }
+
+.hintbubble b { color: var(--gold); }
+
+.meter { background: rgb(4, 16, 31); border: 1px solid var(--line); border-=
+radius: 12px; padding: 12px; margin-bottom: 10px; }
+
+.meter .scr { font-family: "JetBrains Mono"; background: rgb(0, 16, 24); bo=
+rder: 1px solid var(--green); border-radius: 8px; padding: 10px; color: var=
+(--green); font-size: 22px; text-align: right; text-shadow: rgba(61, 255, 1=
+39, 0.6) 0px 0px 8px; min-height: 46px; }
+
+.meter .modes { display: flex; gap: 5px; margin-top: 8px; flex-wrap: wrap; =
+}
+
+.meter .modes button { flex: 1 1 0%; font-family: "JetBrains Mono"; font-si=
+ze: 11px; padding: 6px 4px; border-radius: 6px; border: 1px solid var(--lin=
+e); background: transparent; color: var(--muted); cursor: pointer; }
+
+.meter .modes button.on { background: var(--cyan); color: rgb(0, 17, 34); b=
+order-color: var(--cyan); }
+
+.warnbox { min-height: 20px; }
+
+.warn { display: block; font-size: 13px; font-weight: 600; padding: 8px 10p=
+x; border-radius: 8px; margin-bottom: 6px; animation: 0.3s ease 0s 1 normal=
+ none running pop; }
+
+.warn.err { background: rgba(255, 77, 94, 0.14); border: 1px solid var(--re=
+d); color: rgb(255, 154, 164); }
+
+.warn.ok { background: rgba(61, 255, 139, 0.12); border: 1px solid var(--gr=
+een); color: rgb(154, 255, 196); }
+
+.warn.info { background: rgba(0, 229, 255, 0.1); border: 1px solid var(--cy=
+an); color: rgb(155, 233, 255); }
+
+@keyframes pop {=20
+  0% { transform: scale(0.9); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.valctl { margin: 6px 0px 10px; }
+
+.valctl label { font-size: 12px; color: var(--muted); font-weight: 600; }
+
+.valctl select, .valctl input { width: 100%; background: rgb(6, 18, 42); co=
+lor: var(--ink); border: 1px solid var(--line); border-radius: 7px; padding=
+: 6px; font-family: "JetBrains Mono"; font-size: 12px; margin-top: 3px; }
+
+.mission { display: flex; gap: 14px; align-items: flex-start; padding: 14px=
+; border-left: 3px solid var(--purple); }
+
+.mission .num { font-family: Orbitron; font-weight: 900; font-size: 26px; c=
+olor: var(--purple); min-width: 46px; }
+
+.mission h3 { color: rgb(255, 255, 255); font-size: 17px; }
+
+.mission p { color: var(--muted); font-size: 15px; }
+
+.mchk { margin-left: auto; font-family: "JetBrains Mono"; font-size: 12px; =
+color: var(--muted); }
+
+#quiz .q { background: linear-gradient(160deg,var(--panel),var(--panel2)); =
+border: 1px solid var(--line); border-radius: 14px; padding: 20px; margin-b=
+ottom: 16px; }
+
+#quiz .q .qn { font-family: "JetBrains Mono"; color: var(--gold); font-size=
+: 12px; }
+
+#quiz .q h3 { color: rgb(255, 255, 255); font-size: 18px; margin: 6px 0px 1=
+2px; }
+
+#quiz .opt { display: block; padding: 11px 14px; border: 1px solid var(--li=
+ne); border-radius: 9px; margin: 7px 0px; cursor: pointer; color: var(--ink=
+); transition: 0.15s; font-size: 15px; font-weight: 600; }
+
+#quiz .opt:hover { border-color: var(--cyan); background: rgba(0, 229, 255,=
+ 0.06); }
+
+#quiz .opt.correct { border-color: var(--green); background: rgba(61, 255, =
+139, 0.14); color: rgb(191, 255, 214); }
+
+#quiz .opt.wrong { border-color: var(--red); background: rgba(255, 77, 94, =
+0.14); color: rgb(255, 179, 186); }
+
+#quiz .opt.locked { cursor: default; pointer-events: none; opacity: 0.85; }
+
+.fb { margin-top: 10px; font-size: 14px; padding: 9px 12px; border-radius: =
+8px; display: none; }
+
+.fb.show { display: block; }
+
+.fb.good { background: rgba(61, 255, 139, 0.1); color: rgb(154, 255, 196); =
+}
+
+.fb.bad { background: rgba(255, 77, 94, 0.1); color: rgb(255, 154, 164); }
+
+#scorebox { text-align: center; padding: 30px; border: 1px solid var(--gold=
+); border-radius: 16px; background: radial-gradient(600px 200px at 50% 0%, =
+rgba(255, 210, 63, 0.12), transparent); display: none; }
+
+#scorebox.show { display: block; animation: 0.5s ease 0s 1 normal none runn=
+ing pop; }
+
+#scorebox .big { font-family: Orbitron; font-size: 58px; font-weight: 900; =
+color: var(--gold); text-shadow: rgba(255, 210, 63, 0.6) 0px 0px 30px; }
+
+.badge { display: inline-block; margin-top: 14px; font-family: Orbitron; fo=
+nt-weight: 700; padding: 10px 22px; border-radius: 30px; border: 2px solid =
+var(--cyan); color: var(--cyan); box-shadow: var(--glow); }
+
+footer { border-top: 1px solid var(--line); padding: 30px 24px; text-align:=
+ center; color: var(--muted); font-size: 14px; margin-top: 40px; }
+
+footer .verse { font-family: Rajdhani; font-style: italic; color: var(--ink=
+); font-size: 16px; margin-bottom: 6px; }
+
+footer .ref { font-family: "JetBrains Mono"; color: var(--gold); font-size:=
+ 12px; }
+
+.divider { height: 1px; background: linear-gradient(90deg,transparent,var(-=
+-line),transparent); margin: 8px auto; max-width: 1280px; }
+
+.fade { opacity: 0; transform: translateY(24px); transition: 0.7s; }
+
+.fade.in { opacity: 1; transform: none; }
+
+@media (max-width: 980px) {
+  .g3, .g4 { grid-template-columns: 1fr 1fr; }
+  .g2, .analogy { grid-template-columns: 1fr; }
+  .lab { grid-template-columns: 1fr; height: auto; }
+  .stage { height: 420px; }
+  .lpanel { max-height: 300px; }
+}
+
+@media (max-width: 560px) {
+  .g3, .g4 { grid-template-columns: 1fr; }
+}
+------MultipartBoundary--BSuGxFvlq1rnemUb2sAK94JAQwcWMKDZxJpI114tew------
